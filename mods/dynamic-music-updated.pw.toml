@@ -1,0 +1,18 @@
+name = "Dynamic Music Updated"
+filename = "dynmus-v2.3.1+1.20-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ilfn0HT9/versions/8vqcGTC1/dynmus-v2.3.1%2B1.20-fabric.jar"
+hash-format = "sha1"
+hash = "644c2185c85d19a1e09d996ed5f1ccfabef5bbd0"
+
+[update]
+[update.modrinth]
+mod-id = "ilfn0HT9"
+version = "8vqcGTC1"
+
+[option]
+default = false
+description = "Dynamic music makes it so appropriate music play depending on if your are in a cave, if you are in a hot/cold biome and if it's nightime/raining"
+optional = true

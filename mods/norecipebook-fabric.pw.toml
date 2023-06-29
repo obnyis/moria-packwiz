@@ -1,0 +1,18 @@
+name = "NoRecipeBook (Fabric)"
+filename = "norecipebook-2.3+1.20.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/TvL1V8O5/versions/Sfxt80sM/norecipebook-2.3%2B1.20.jar"
+hash-format = "sha1"
+hash = "44f1c0adca1caecc6ee15fd170ae7b70d1fee9ff"
+
+[update]
+[update.modrinth]
+mod-id = "TvL1V8O5"
+version = "Sfxt80sM"
+
+[option]
+default = false
+description = "This mod removes the recipe button from the players inventory"
+optional = true

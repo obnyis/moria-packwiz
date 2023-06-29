@@ -1,0 +1,18 @@
+name = "Pet Owner"
+filename = "PetOwner-1.8.5-1.19.4+.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IxUlAAFe/versions/LxdwPVNb/PetOwner-1.8.5-1.19.4%2B.jar"
+hash-format = "sha1"
+hash = "1c249c5cb8416295370747c6a809cee25e50a981"
+
+[update]
+[update.modrinth]
+mod-id = "IxUlAAFe"
+version = "LxdwPVNb"
+
+[option]
+default = false
+description = "Allows you to see who owns an animal"
+optional = true

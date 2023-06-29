@@ -1,0 +1,13 @@
+name = "NoNarrator"
+filename = "nonarrator-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1ufrSla2/versions/m737nOdC/nonarrator-1.0.1.jar"
+hash-format = "sha1"
+hash = "0bfe17707881ed75109cb5637679c8202758f752"
+
+[update]
+[update.modrinth]
+mod-id = "1ufrSla2"
+version = "m737nOdC"

@@ -1,0 +1,13 @@
+name = "TerraBlender"
+filename = "TerraBlender-fabric-1.20.1-3.0.0.165.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kkmrDlKT/versions/3sBxYcYs/TerraBlender-fabric-1.20.1-3.0.0.165.jar"
+hash-format = "sha1"
+hash = "04ddd5aaef5f18a57a21aa95db623e1f35bd70a5"
+
+[update]
+[update.modrinth]
+mod-id = "kkmrDlKT"
+version = "3sBxYcYs"

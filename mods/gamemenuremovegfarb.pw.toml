@@ -1,0 +1,18 @@
+name = "Game Menu Remove GFARB"
+filename = "gamemenuremovegfarb-fabric-mc1.19.4-2.1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/bKQclmIt/versions/YYo2jbCs/gamemenuremovegfarb-fabric-mc1.19.4-2.1.1.jar"
+hash-format = "sha1"
+hash = "f8c98e697c49138baa95e444c52d33c7a2dde164"
+
+[update]
+[update.modrinth]
+mod-id = "bKQclmIt"
+version = "YYo2jbCs"
+
+[option]
+default = false
+description = "Remove the \"Give Feed Back\" and \"Report Bugs\" buttons from the game menu"
+optional = true

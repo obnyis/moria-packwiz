@@ -1,0 +1,18 @@
+name = "Villager Names"
+filename = "villagernames-1.20.1-5.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gqRXDo8B/versions/hkncNcp7/villagernames-1.20.1-5.2.jar"
+hash-format = "sha1"
+hash = "f10599f504a7ec7cce7d6c8c890b5525e27db481"
+
+[update]
+[update.modrinth]
+mod-id = "gqRXDo8B"
+version = "hkncNcp7"
+
+[option]
+default = false
+description = "A minimalistic mod which gives all unnamed (modded) villagers a pre-defined or custom name"
+optional = true

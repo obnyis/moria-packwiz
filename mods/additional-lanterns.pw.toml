@@ -1,0 +1,13 @@
+name = "Additional Lanterns"
+filename = "additionallanterns-1.0.4a-fabric-mc1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jXNvTKds/versions/tUuGaPve/additionallanterns-1.0.4a-fabric-mc1.20.jar"
+hash-format = "sha1"
+hash = "c09dbd4867b30487094104f4adaa53193c6b86f7"
+
+[update]
+[update.modrinth]
+mod-id = "jXNvTKds"
+version = "tUuGaPve"

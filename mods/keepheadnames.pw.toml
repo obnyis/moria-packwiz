@@ -1,0 +1,13 @@
+name = "Keep Head Names"
+filename = "KeepHeadNames-1.5.1-fabric-1.19.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2VmW47Rp/versions/ZMGduxOp/KeepHeadNames-1.5.1-fabric-1.19.3.jar"
+hash-format = "sha1"
+hash = "5b2cecade98d0b79033f4baf701fb310abd22092"
+
+[update]
+[update.modrinth]
+mod-id = "2VmW47Rp"
+version = "ZMGduxOp"
