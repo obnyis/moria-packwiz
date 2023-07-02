@@ -6,7 +6,7 @@ hash = "8740df9bb51638a9e62fe93b11e99fb85288bb94346a7a4ef67742f4f34d9d0b"
 
 [[files]]
 file = "config/carpet/default_carpet.conf"
-hash = "9f984fcee2c883bc890a7b3605bc707889d21430181ccea150fd2eb44a028db0"
+hash = "c26bf84a4157fe6533ddc3ffc05e78d10d7740a304c6310b113661a5a3b6b4b3"
 
 [[files]]
 file = "config/starterkit/starterkit.txt"
@@ -211,11 +211,6 @@ hash = "d8431a3c5dac429143ec732d3a71511a5fb64b040c5dc58cd378d6c87fe2a8f5"
 metafile = true
 
 [[files]]
-file = "mods/cyan.pw.toml"
-hash = "ffc74c421114a86b64ab3e611d436d3f776a90785b320787f14f6cea1bf8aadc"
-metafile = true
-
-[[files]]
 file = "mods/cycle-paintings.pw.toml"
 hash = "0890a2e4d14e8cd6a6f7e8ee639b78e704d4c8670d3e97b1463787bcbd6b9e3f"
 metafile = true
@@ -256,11 +251,6 @@ hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
 metafile = true
 
 [[files]]
-file = "mods/fast-portals.pw.toml"
-hash = "cbe9f4f6c29835f35093c45f64d98acad594f4cf9a2b919d0d6c7255d939e5ef"
-metafile = true
-
-[[files]]
 file = "mods/fastanim.pw.toml"
 hash = "09282ae8265516057d5500cb489f0a8d3c563064d85582718a1efd6f3afb43be"
 metafile = true
@@ -273,11 +263,6 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
-metafile = true
-
-[[files]]
-file = "mods/gamemenuremovegfarb.pw.toml"
-hash = "9cf9ebfb1b477fe9d5515cbd9aff8afa3b52526f1e7f708332ff24b1b83605c4"
 metafile = true
 
 [[files]]
@@ -482,7 +467,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "c854cb14cde5a0735a8380ea8976dc66c6d29d73972264996c546c7cfadcacc2"
+hash = "3f00766ba6d765c47e6585f5318ae5771a89d345c8abb1a993ad20e3f24a7f09"
 metafile = true
 
 [[files]]
@@ -522,7 +507,7 @@ metafile = true
 
 [[files]]
 file = "mods/snow-under-trees-remastered.pw.toml"
-hash = "89b8062927549c5315e7d6fb131c9d3b9ea972876ca7e058a935161347a4ce8f"
+hash = "3e296e373e17d6c4d9e8a914d07b841fcfa4faaefcb1ac00aafd4ac9d71e72aa"
 metafile = true
 
 [[files]]
@@ -542,7 +527,7 @@ metafile = true
 
 [[files]]
 file = "mods/styled-chat.pw.toml"
-hash = "d77316484ab72491d94842d6bbd04b0a993180616dca661399f1ff72328de77b"
+hash = "86d513a60a1722cb8331e23c2946ef018fe3c2ecaa94cdf4af5af45d0620820a"
 metafile = true
 
 [[files]]
@@ -576,11 +561,6 @@ hash = "79bf46f1892bfb23ff9a69b16d0f9147da33809021f0f2ef2f73ae7d10bbefec"
 metafile = true
 
 [[files]]
-file = "mods/tiny-coal.pw.toml"
-hash = "33cb17612d91914bc8c2fc2e8da7c80d0bf01e611189e303bfc24fdc916cb15e"
-metafile = true
-
-[[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "b93993a54c2ce2465446f58dc4b91caec4e5d9a1ade03c56f3eedddbb89879b2"
 metafile = true
@@ -592,7 +572,7 @@ metafile = true
 
 [[files]]
 file = "mods/villager-names-serilum.pw.toml"
-hash = "0367d93c656abef98a4dbaca04de0e67ce40542ed52e6210ff63303b819dad4c"
+hash = "4abaec5bedb361e9cd5886a2ee99c2bce49b14bc867fc4c94b36c551727fb484"
 metafile = true
 
 [[files]]

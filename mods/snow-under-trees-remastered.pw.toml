@@ -11,8 +11,3 @@ hash = "d3d1e356ed911c38abd6d35bb4c08da5c32bc88b"
 [update.modrinth]
 mod-id = "XVnUIUAQ"
 version = "c2a6rdtw"
-
-[option]
-default = false
-description = "Adds snow under trees in snowy biomes, making the biomes more immersive"
-optional = true
