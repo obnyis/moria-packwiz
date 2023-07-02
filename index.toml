@@ -231,13 +231,8 @@ hash = "dd45b08011417dd062568cbb230369a29aff617066c7108cf4a240ccdd9a030b"
 metafile = true
 
 [[files]]
-file = "mods/diggus-maximus.pw.toml"
-hash = "db690311634819527b9455423d21dce9057a5f00292e8270a1b2baa28a063936"
-metafile = true
-
-[[files]]
 file = "mods/ding.pw.toml"
-hash = "7c5259e9ac7df8366d01465703abcfbb38b59ab68c885cba988f259bea36afb2"
+hash = "a93b03b053dd4d15abc2104cd5debcf9484c44b4eacd794aa009f1d83fa148e5"
 metafile = true
 
 [[files]]
@@ -372,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/kleeslabs.pw.toml"
-hash = "eee25e9b98286ab98ee16ff0092738db092fd18a0dfe817f4560411be5896c80"
+hash = "85e5ee80b3d6911217d846c082408fdf008aaf10386032e90a9caed44c89f785"
 metafile = true
 
 [[files]]

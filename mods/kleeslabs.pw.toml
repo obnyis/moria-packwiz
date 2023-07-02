@@ -11,8 +11,3 @@ hash = "6b2527ccb5d6afbdcb374394b5b796be8b1278c1"
 [update.modrinth]
 mod-id = "7uh75ruZ"
 version = "IDj7kzhS"
-
-[option]
-default = false
-description = "Break only the half of a double slab that you're looking at"
-optional = true
