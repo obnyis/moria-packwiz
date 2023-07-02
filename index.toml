@@ -181,6 +181,11 @@ hash = "5762821023a5dcae59dcd54e28e498781662257b727f06f76176693995281791"
 metafile = true
 
 [[files]]
+file = "mods/completeconfig.pw.toml"
+hash = "1b8b5db9fa8f6c4f842cd70a8350d3a3bfc467bfc284d53ae05c2a45d7adeb80"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "122b70be6838abe893da5273b63334af7ed53dc294e43b6356bbc32640d3a1a2"
 metafile = true
@@ -188,6 +193,11 @@ metafile = true
 [[files]]
 file = "mods/craftpresence.pw.toml"
 hash = "894220406e7567c00e7ba5592da5e7a9a43fa6bc0028f855f4b76e8e7b4b38a6"
+metafile = true
+
+[[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "0a9682238442955623f64ca7dd693a2ef0f8179c71e15bffb5a7a64fcd293e60"
 metafile = true
 
 [[files]]
@@ -226,6 +236,11 @@ hash = "db690311634819527b9455423d21dce9057a5f00292e8270a1b2baa28a063936"
 metafile = true
 
 [[files]]
+file = "mods/ding.pw.toml"
+hash = "7c5259e9ac7df8366d01465703abcfbb38b59ab68c885cba988f259bea36afb2"
+metafile = true
+
+[[files]]
 file = "mods/durability-tooltip.pw.toml"
 hash = "37fc3bb1c8efd3005cdb97c4491e8fb1cffb6fc883b4c4fbaabc3493a125f6fe"
 metafile = true
@@ -256,6 +271,11 @@ hash = "09282ae8265516057d5500cb489f0a8d3c563064d85582718a1efd6f3afb43be"
 metafile = true
 
 [[files]]
+file = "mods/faux-custom-entity-data.pw.toml"
+hash = "a4da8bc46ad51d30597bd2235add659f0ee49123a7140487de7d127659a87e4b"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "03e174cf691b52da20bd973b955fae6f3720d3d2120f9d6cc1de5fdf3180013c"
 metafile = true
@@ -263,6 +283,16 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-fabric.pw.toml"
+hash = "cf5b441ea61cab402065be1c392448d412e76468fa939f653c58c7fa60159def"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ultimine-fabric.pw.toml"
+hash = "50b48bf9a5cacb53cfcd772de645cf41fd9e0bd561c2d1732750cefa478394a2"
 metafile = true
 
 [[files]]

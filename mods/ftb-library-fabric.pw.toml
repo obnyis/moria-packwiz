@@ -1,0 +1,13 @@
+name = "FTB Library (Fabric)"
+filename = "ftb-library-fabric-2001.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "49c4a93e269638a0dc11739191368c6a553a26c7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4596510
+project-id = 438495
