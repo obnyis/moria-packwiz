@@ -9,6 +9,10 @@ file = "config/carpet/default_carpet.conf"
 hash = "c26bf84a4157fe6533ddc3ffc05e78d10d7740a304c6310b113661a5a3b6b4b3"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "266d020f3776620c3267fee41fac54397b90459084629c3fcb9e31f7cf890b14"
+
+[[files]]
 file = "config/starterkit/starterkit.txt"
 hash = "edb37fc7db35b2a6f068aee3b58a36fe028d7439ff7b2c459aabb7b02975a278"
 
@@ -117,6 +121,11 @@ metafile = true
 [[files]]
 file = "mods/betternether.pw.toml"
 hash = "641a1455cc9169f821efdb2a5c3ec3720c7d4a7414eee86be86b26cb607d2ca7"
+metafile = true
+
+[[files]]
+file = "mods/bits-and-chisels.pw.toml"
+hash = "2ccbc3d8b4b49b9b24196a6b3a8274598468bf472c75c37933d23245f729e6f0"
 metafile = true
 
 [[files]]
@@ -235,6 +244,11 @@ hash = "dd45b08011417dd062568cbb230369a29aff617066c7108cf4a240ccdd9a030b"
 metafile = true
 
 [[files]]
+file = "mods/default-options.pw.toml"
+hash = "7a953cdfe62b27a72c3ea6222317d08d63e0d756d5172ef4ad336e3048345368"
+metafile = true
+
+[[files]]
 file = "mods/ding.pw.toml"
 hash = "a93b03b053dd4d15abc2104cd5debcf9484c44b4eacd794aa009f1d83fa148e5"
 metafile = true
@@ -302,6 +316,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "da49262a60cebc436b9e4b7f8ab253930029ec5f9c18874a5bf7b55a4b8bc027"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "45ad54cce889a3327cc38e244b140552c8a8616068885c26f05d4edc0a0456f0"
 metafile = true
 
 [[files]]

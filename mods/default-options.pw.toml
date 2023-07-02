@@ -1,0 +1,13 @@
+name = "Default Options"
+filename = "defaultoptions-fabric-1.20-18.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/WEg59z5b/versions/gUEpxWEe/defaultoptions-fabric-1.20-18.0.0.jar"
+hash-format = "sha1"
+hash = "e440eb4dbd853fa073167da4d3de9f617d5dfef1"
+
+[update]
+[update.modrinth]
+mod-id = "WEg59z5b"
+version = "gUEpxWEe"
