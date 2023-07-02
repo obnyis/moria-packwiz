@@ -17,6 +17,10 @@ file = "config/waystones-common.toml"
 hash = "069efbfa77b0d6a5e75180d9d854bdc12fae64fb0adbe7dc01080c6f4c9f2e11"
 
 [[files]]
+file = "defaultconfigs/craftpresence.json"
+hash = "b42540b5a8004eff3101050380ec57909b13d67027fd5f5e7ee945638a799400"
+
+[[files]]
 file = "defaultconfigs/minihud/moria.stealthwing.com_dim_minecraft_overworld.json"
 hash = "1e4447b2e7fcd10210da714a6f57d83fe84aad90fa965fdb8a74cd58cdc69b36"
 
@@ -619,3 +623,7 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "2cff9d338f25408ade4a747bd11a5d8a328bd007ae4505e70e971113351f0432"
 metafile = true
+
+[[files]]
+file = "scripts/moria.zs"
+hash = "31984ad903a2ccb9e820d9326b892ae8e086bef5a08c7da9c8c0686a3b5b0067"
