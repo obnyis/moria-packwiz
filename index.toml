@@ -324,6 +324,16 @@ hash = "f14eee0184d528d8081d36b4a0bc6680d787d7e10a375c3a824701278f4d04ec"
 metafile = true
 
 [[files]]
+file = "mods/inventory-essentials.pw.toml"
+hash = "2b0d6f745cc55e865a4197a0dc9b808f8f77ad8b64bd356cd366e2da30419733"
+metafile = true
+
+[[files]]
+file = "mods/inventory-sorting.pw.toml"
+hash = "82a7c9721c81c309d3c4dc2cf93ab12e1399894d03b738782ac04b0b7c232213"
+metafile = true
+
+[[files]]
 file = "mods/inventory-totem.pw.toml"
 hash = "c2eb7e78e3d01c29b3bb7d930096859b1fb8e06d1670b9cef5d49f991ca3da10"
 metafile = true
@@ -331,11 +341,6 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "1d82a76a6026e9e0185f48fcbb9bc8dd17278ed809768470642e7318ab029d9c"
-metafile = true
-
-[[files]]
-file = "mods/item-scroller.pw.toml"
-hash = "840890a74968c008d43a190d0af9a0067e1eef5d08dc663be0a27665f0700374"
 metafile = true
 
 [[files]]
@@ -486,6 +491,11 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "6d813994b3eda187ae08b36561b60205de365852e2163f323c4c0ee283816ac6"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "669008dbd2508a67f8c409096cf2357de450f26a69494289e5852045ade7d358"
 metafile = true
 
 [[files]]
