@@ -70,7 +70,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "f238e1f28f18e58f737116b13dab9716ca38b2dd84242e802d60419cc71ed737"
+hash = "5ade0167c12aa00d6cced218514e6a6531c7c7773a4c1cb79b14a2bc484075dd"
 metafile = true
 
 [[files]]
@@ -289,6 +289,11 @@ hash = "03e174cf691b52da20bd973b955fae6f3720d3d2120f9d6cc1de5fdf3180013c"
 metafile = true
 
 [[files]]
+file = "mods/flat-bedrock.pw.toml"
+hash = "b4f80230e4a945614a64a6b9925021c879b718fc0dc28fb9d9640512f38c0e95"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
@@ -301,6 +306,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-ultimine-fabric.pw.toml"
 hash = "50b48bf9a5cacb53cfcd772de645cf41fd9e0bd561c2d1732750cefa478394a2"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "3efad25726651094f4356340f8814854808b063dd609929740b71979cb980bf3"
 metafile = true
 
 [[files]]
@@ -531,6 +541,16 @@ metafile = true
 [[files]]
 file = "mods/qsl.pw.toml"
 hash = "4f5bc996ba57f18abd2dc12801f1cbb8d06d3d115232b15d27174172f4d4004f"
+metafile = true
+
+[[files]]
+file = "mods/quartz-elevator.pw.toml"
+hash = "08137554c425aba68a74b49e806ff118692b7a747c8fd7d0922bd1a3c9b2bb12"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled.pw.toml"
+hash = "0b464dc0b9a82a0d6801ffb1a793b3876d5674e9a4550bde27ebb590ed1993da"
 metafile = true
 
 [[files]]

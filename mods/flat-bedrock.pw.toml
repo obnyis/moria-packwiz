@@ -1,0 +1,13 @@
+name = "Flat Bedrock (Forge / Fabric)"
+filename = "flatbedrock-fabric-3.0.0-build.17+mc1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9e7d862722682af84f9771ead170cc98c95046d9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4598839
+project-id = 398623
