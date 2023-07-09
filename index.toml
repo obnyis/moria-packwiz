@@ -269,11 +269,6 @@ hash = "58418a0fb1390b262098eb1acafb969dd96b49c5b8d350bf1049fb30e9a2606e"
 metafile = true
 
 [[files]]
-file = "mods/dynmap.pw.toml"
-hash = "bd2e4788287febe2ef7e5ec50e487a4747a320b46fa9b4c0fc3a061f9c822535"
-metafile = true
-
-[[files]]
 file = "mods/ebe.pw.toml"
 hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
 metafile = true
