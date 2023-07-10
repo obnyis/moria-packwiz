@@ -9,8 +9,20 @@ file = "config/carpet/default_carpet.conf"
 hash = "c26bf84a4157fe6533ddc3ffc05e78d10d7740a304c6310b113661a5a3b6b4b3"
 
 [[files]]
+file = "config/craftpresence.json"
+hash = "b42540b5a8004eff3101050380ec57909b13d67027fd5f5e7ee945638a799400"
+
+[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "266d020f3776620c3267fee41fac54397b90459084629c3fcb9e31f7cf890b14"
+
+[[files]]
+file = "config/minihud.json"
+hash = "be8ffb9fbf0d9ef3c40816c17b1b252188b38e1354d221f8d52baf4fd81473d6"
+
+[[files]]
+file = "config/minihud/moria.stealthwing.com_dim_minecraft_overworld.json"
+hash = "1e4447b2e7fcd10210da714a6f57d83fe84aad90fa965fdb8a74cd58cdc69b36"
 
 [[files]]
 file = "config/starterkit/starterkit.txt"
@@ -19,14 +31,6 @@ hash = "edb37fc7db35b2a6f068aee3b58a36fe028d7439ff7b2c459aabb7b02975a278"
 [[files]]
 file = "config/waystones-common.toml"
 hash = "069efbfa77b0d6a5e75180d9d854bdc12fae64fb0adbe7dc01080c6f4c9f2e11"
-
-[[files]]
-file = "defaultconfigs/craftpresence.json"
-hash = "b42540b5a8004eff3101050380ec57909b13d67027fd5f5e7ee945638a799400"
-
-[[files]]
-file = "defaultconfigs/minihud/moria.stealthwing.com_dim_minecraft_overworld.json"
-hash = "1e4447b2e7fcd10210da714a6f57d83fe84aad90fa965fdb8a74cd58cdc69b36"
 
 [[files]]
 file = "mods/additional-lanterns.pw.toml"
@@ -266,6 +270,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-music-updated.pw.toml"
 hash = "58418a0fb1390b262098eb1acafb969dd96b49c5b8d350bf1049fb30e9a2606e"
+metafile = true
+
+[[files]]
+file = "mods/dynmap.pw.toml"
+hash = "4b26f1a1e781e53f02992fa95feff846a3ac4f66b65cf1180695ad9d47e03356"
 metafile = true
 
 [[files]]
