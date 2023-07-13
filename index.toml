@@ -5,6 +5,14 @@ file = "config/bclib/client.json"
 hash = "8740df9bb51638a9e62fe93b11e99fb85288bb94346a7a4ef67742f4f34d9d0b"
 
 [[files]]
+file = "config/betternether/biomes.json"
+hash = "1d5ed92a3b586842596880256e9393842d32d63834f9946346bf22b0dcb5656f"
+
+[[files]]
+file = "config/betternether/items.json"
+hash = "f4606ba1efb2d15ed808350d54a5f613edc1c51fdffb6263c0a9e5315baf4d82"
+
+[[files]]
 file = "config/carpet/default_carpet.conf"
 hash = "8b50ea166e09cc7399da4c6f9720a6367506f7c49cdaab5617a603b701e6eef7"
 
