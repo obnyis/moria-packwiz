@@ -6,7 +6,7 @@ hash = "8740df9bb51638a9e62fe93b11e99fb85288bb94346a7a4ef67742f4f34d9d0b"
 
 [[files]]
 file = "config/carpet/default_carpet.conf"
-hash = "c26bf84a4157fe6533ddc3ffc05e78d10d7740a304c6310b113661a5a3b6b4b3"
+hash = "8b50ea166e09cc7399da4c6f9720a6367506f7c49cdaab5617a603b701e6eef7"
 
 [[files]]
 file = "config/craftpresence.json"
@@ -14,7 +14,7 @@ hash = "b42540b5a8004eff3101050380ec57909b13d67027fd5f5e7ee945638a799400"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "266d020f3776620c3267fee41fac54397b90459084629c3fcb9e31f7cf890b14"
+hash = "b1974b73beddb8bb4a54a9525b37ba2d7e936cc5886ba2e9b0d3e0715253407b"
 
 [[files]]
 file = "config/minihud.json"

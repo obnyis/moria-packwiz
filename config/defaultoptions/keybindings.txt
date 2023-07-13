@@ -56,7 +56,7 @@ key_key.journeymap.fullscreen_create_waypoint:key.keyboard.b:NONE
 key_key.journeymap.fullscreen_chat_position:key.keyboard.c:NONE
 key_key.journeymap.map_toggle_alt:key.keyboard.j:NONE
 key_key.journeymap.fullscreen_waypoints:key.keyboard.n:NONE
-key_key.journeymap.minimap_toggle_alt:key.keyboard.m:NONE
+key_key.journeymap.minimap_toggle_alt:key.keyboard.unknown:NONE
 key_key.journeymap.fullscreen_options:key.keyboard.o:NONE
 key_key.journeymap.fullscreen.north:key.keyboard.up:NONE
 key_key.journeymap.fullscreen.south:key.keyboard.down:NONE
