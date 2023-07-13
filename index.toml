@@ -74,7 +74,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "5ade0167c12aa00d6cced218514e6a6531c7c7773a4c1cb79b14a2bc484075dd"
+hash = "28e70f09e53039ed93618487ed8cac23327fd588b6bae8105d1e15797794f1cf"
 metafile = true
 
 [[files]]
@@ -179,7 +179,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "88eecbb9eafdf2eb226c594a714f305e71186acdc79a2fa2deb78cd91b74d92a"
+hash = "df83086d160981e8d4e29defe7253d6b2f3339d33dcc2c72e8359bea2f134960"
 metafile = true
 
 [[files]]
@@ -194,7 +194,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "5762821023a5dcae59dcd54e28e498781662257b727f06f76176693995281791"
+hash = "204b3eb115e418bdad4f5f2e8ef49f0c8b8f10ad062ca10e05e1e8cde4de45ab"
 metafile = true
 
 [[files]]
@@ -214,12 +214,12 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.pw.toml"
-hash = "0a9682238442955623f64ca7dd693a2ef0f8179c71e15bffb5a7a64fcd293e60"
+hash = "9e85f511881de32bd104256f9b4b5697427abea098b1836168098d1362615e5b"
 metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "066ea6997391a36d481c7d065cc357ec17f1610c0a30c243d4cf6fcf7485e75d"
+hash = "82285f2aa33891d7b7ad1f9d6b8cdacb46aa2bde7d091cc65d279b0ef0caeb3a"
 metafile = true
 
 [[files]]
@@ -249,7 +249,7 @@ metafile = true
 
 [[files]]
 file = "mods/default-options.pw.toml"
-hash = "7a953cdfe62b27a72c3ea6222317d08d63e0d756d5172ef4ad336e3048345368"
+hash = "5c4f693a0fbc744b46f76e44746baff8621ebb81937c31c777b9edcea18d8ad6"
 metafile = true
 
 [[files]]
@@ -334,7 +334,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "3903f1a1e5d995906578f94c41036f7d04bdc2b33e1420fc3c34537c8abd4c02"
+hash = "85daf558c36022a664c9e2bc3d9a9bc21cb9fa62977890f142c20ccc155eae36"
 metafile = true
 
 [[files]]
@@ -374,7 +374,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap-integration.pw.toml"
-hash = "9bfe53cdf4b546be0a2f0dd309d9129f4e4a18cf633528683fe158bfe2b49532"
+hash = "d785776e5926f9a95e43a74b26c2193264fd662b625d0080f12ef6f78cd13ee0"
 metafile = true
 
 [[files]]
@@ -489,7 +489,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "b5395c4198a3893b2c70ffdacf304a7a704b6a0c7c7c26d9046c2bc4fee1e5bd"
+hash = "39a7db76913916631313499eadca48f07d18d1d1f6e534ce5c87ffdc779346ec"
 metafile = true
 
 [[files]]
@@ -549,7 +549,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "4f5bc996ba57f18abd2dc12801f1cbb8d06d3d115232b15d27174172f4d4004f"
+hash = "be8073079bf41847c3aa1fb80c9941fa52b8c0ae39eb44a1475618d31c33e1d9"
 metafile = true
 
 [[files]]
@@ -659,7 +659,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "d61b4ccf6f7e3f2c260c8cf5d67ea831bfd353cbdf848e311fec6ebe4f69bc5b"
+hash = "4eab0db38cceb1a4e00e6ebf3a46bcb47189a9b4ae3167c54af3e604b657207b"
 metafile = true
 
 [[files]]

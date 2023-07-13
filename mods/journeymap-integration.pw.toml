@@ -1,18 +1,17 @@
 name = "JourneyMap Integration"
-filename = "jmi-fabric-1.20.1-0.14-38.jar"
+filename = "jmi-fabric-1.20.1-0.14-42.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/M1ZKbfkJ/versions/witOJTpq/jmi-fabric-1.20.1-0.14-38.jar"
+url = "https://cdn.modrinth.com/data/M1ZKbfkJ/versions/o5TGhCrJ/jmi-fabric-1.20.1-0.14-42.jar"
 hash-format = "sha1"
-hash = "d8d4aa4214aa46d4fcb5af620eb2883286bd6d5f"
+hash = "cd0b759532b6630839e25ab6f33adaacbad99481"
 
 [update]
 [update.modrinth]
 mod-id = "M1ZKbfkJ"
-version = "witOJTpq"
+version = "o5TGhCrJ"
 
 [option]
-default = false
-description = "Adds some mod integrations for our favorite map mod"
 optional = true
+description = "Adds some mod integrations for our favorite map mod"
