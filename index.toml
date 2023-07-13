@@ -678,5 +678,9 @@ hash = "796239ec3e198ff16d27b144d24f813da260ee25c7342cf5487f0db0843f1c29"
 metafile = true
 
 [[files]]
+file = "resourcepacks/moria_backgrounds.zip"
+hash = "46491ec0c34cea7f7d43caf062cb51c31014f52ac8e31d462675726e268f9886"
+
+[[files]]
 file = "scripts/moria.zs"
 hash = "31984ad903a2ccb9e820d9326b892ae8e086bef5a08c7da9c8c0686a3b5b0067"
