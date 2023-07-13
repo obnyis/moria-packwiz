@@ -25,6 +25,10 @@ file = "config/defaultoptions/keybindings.txt"
 hash = "b1974b73beddb8bb4a54a9525b37ba2d7e936cc5886ba2e9b0d3e0715253407b"
 
 [[files]]
+file = "config/defaultoptions/options.txt"
+hash = "daff43b6559aae217601727dfb7c9c9679e15616451296c413a1c9f06d792048"
+
+[[files]]
 file = "config/minihud.json"
 hash = "be8ffb9fbf0d9ef3c40816c17b1b252188b38e1354d221f8d52baf4fd81473d6"
 
