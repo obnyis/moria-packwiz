@@ -41,6 +41,10 @@ file = "config/gravestones.json"
 hash = "c7c3b66195b1fe378e28a78c54b2b085cef59f6fec017c4bb54b736affc2d06c"
 
 [[files]]
+file = "config/head-index.json"
+hash = "965ca3743b715330e48f8da6abca20bdc9f9ba2ea4be4fb032b5cafb0c6a5bad"
+
+[[files]]
 file = "config/magnumtorch-server.toml"
 hash = "8398b0a9682d2e37550b350e62029ef5bf281343c60ca1b4ee63b4b87e2e9681"
 
@@ -322,6 +326,11 @@ metafile = true
 [[files]]
 file = "mods/ebe.pw.toml"
 hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-fabric.pw.toml"
+hash = "76bff6c00431ae14e0de961cf30f2a950fb1dd46da429145f235a9b0adbecd7b"
 metafile = true
 
 [[files]]
