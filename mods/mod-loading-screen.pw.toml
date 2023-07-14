@@ -11,8 +11,3 @@ hash = "202d2740dc2f5b6e8afdb388bd0911ab783bba2d"
 [update.modrinth]
 mod-id = "xAGJ6rQS"
 version = "h0v4sRHX"
-
-[option]
-default = false
-description = "An advanced loading screen with the loading progress of mods"
-optional = true
