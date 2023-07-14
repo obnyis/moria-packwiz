@@ -41,6 +41,10 @@ file = "config/starterkit/starterkit.txt"
 hash = "edb37fc7db35b2a6f068aee3b58a36fe028d7439ff7b2c459aabb7b02975a278"
 
 [[files]]
+file = "config/tweakeroo.json"
+hash = "b8640126833841160047057c32662175a279a31b68a019f2b452be0983e0844f"
+
+[[files]]
 file = "config/waystones-common.toml"
 hash = "069efbfa77b0d6a5e75180d9d854bdc12fae64fb0adbe7dc01080c6f4c9f2e11"
 
