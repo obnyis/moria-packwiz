@@ -9,6 +9,10 @@ file = "config/bclib/client.json"
 hash = "8740df9bb51638a9e62fe93b11e99fb85288bb94346a7a4ef67742f4f34d9d0b"
 
 [[files]]
+file = "config/betterf3.json"
+hash = "7e76b195a2d091fa7d8921a9a77168eab7d4230ce56964ca9998edaa973da065"
+
+[[files]]
 file = "config/betternether/biomes.json"
 hash = "1d5ed92a3b586842596880256e9393842d32d63834f9946346bf22b0dcb5656f"
 
