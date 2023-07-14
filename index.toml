@@ -652,6 +652,11 @@ hash = "dd0609f8ee7c58439656c7ed903b12f4ed914398c426b27a1168f70453539338"
 metafile = true
 
 [[files]]
+file = "mods/stepup.pw.toml"
+hash = "ad16f955d5986a4d96ef4d295e56744fd8419624f5b04bf9fd17e79fc9a11e17"
+metafile = true
+
+[[files]]
 file = "mods/styled-chat.pw.toml"
 hash = "fc281e23b3f7f341c98f488190d5f02929947ff9d33fac067604e4cca8abe23e"
 metafile = true
