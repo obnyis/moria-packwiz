@@ -33,6 +33,10 @@ file = "config/gravestones.json"
 hash = "c7c3b66195b1fe378e28a78c54b2b085cef59f6fec017c4bb54b736affc2d06c"
 
 [[files]]
+file = "config/magnumtorch-server.toml"
+hash = "8398b0a9682d2e37550b350e62029ef5bf281343c60ca1b4ee63b4b87e2e9681"
+
+[[files]]
 file = "config/minihud.json"
 hash = "6734e811d8ec08bed3e1753962e76e11e415612891e427c0b44f7ebb7943f9ab"
 
