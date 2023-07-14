@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "Moria/carpet.conf"
+hash = "d95e725cc38e2085aa35b0955b2403cdc6a7d1b3e6e20025d518e4aa3df83404"
+
+[[files]]
 file = "config/bclib/client.json"
 hash = "8740df9bb51638a9e62fe93b11e99fb85288bb94346a7a4ef67742f4f34d9d0b"
 
