@@ -14,7 +14,7 @@ hash = "f4606ba1efb2d15ed808350d54a5f613edc1c51fdffb6263c0a9e5315baf4d82"
 
 [[files]]
 file = "config/carpet/default_carpet.conf"
-hash = "8b50ea166e09cc7399da4c6f9720a6367506f7c49cdaab5617a603b701e6eef7"
+hash = "89d4cc06179bb77c846f7bbc8ac8f929e6c80ec03661398fbf3f8d6ad63ed8a7"
 
 [[files]]
 file = "config/craftpresence.json"
@@ -27,6 +27,10 @@ hash = "1fef11511454945be6ad8e58072f1b0b20378e269aa33cc887f10523c5cf76fc"
 [[files]]
 file = "config/defaultoptions/options.txt"
 hash = "daff43b6559aae217601727dfb7c9c9679e15616451296c413a1c9f06d792048"
+
+[[files]]
+file = "config/gravestones.json"
+hash = "c7c3b66195b1fe378e28a78c54b2b085cef59f6fec017c4bb54b736affc2d06c"
 
 [[files]]
 file = "config/minihud.json"
