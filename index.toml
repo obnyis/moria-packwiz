@@ -14,7 +14,7 @@ hash = "f4606ba1efb2d15ed808350d54a5f613edc1c51fdffb6263c0a9e5315baf4d82"
 
 [[files]]
 file = "config/carpet/default_carpet.conf"
-hash = "89d4cc06179bb77c846f7bbc8ac8f929e6c80ec03661398fbf3f8d6ad63ed8a7"
+hash = "d95e725cc38e2085aa35b0955b2403cdc6a7d1b3e6e20025d518e4aa3df83404"
 
 [[files]]
 file = "config/craftpresence.json"
