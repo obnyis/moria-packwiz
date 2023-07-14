@@ -517,6 +517,11 @@ hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
 metafile = true
 
 [[files]]
+file = "mods/mob-lassos.pw.toml"
+hash = "3dbc7c47827067e038c68b74f97997c7930912123f70d349bfd2563ad3ac4f5a"
+metafile = true
+
+[[files]]
 file = "mods/mod-loading-screen.pw.toml"
 hash = "c7857bed7df0c9bf4fa52891a2f6a6294ac743307f56f1d8e6005de38ab21b96"
 metafile = true
