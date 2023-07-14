@@ -375,6 +375,11 @@ hash = "ace9dbdca93d66c486a4474081fc91219640e506b62679bce01318c34af51e13"
 metafile = true
 
 [[files]]
+file = "mods/headindex.pw.toml"
+hash = "68cdfa4f3e52b3927ee155330f4ed592e3ca0f5c5778e94360058526266e42db"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "a154087f80d2179cabd05cf7629c29c06c5a62538e70f7c58021dd1d4f9e3e3a"
 metafile = true
