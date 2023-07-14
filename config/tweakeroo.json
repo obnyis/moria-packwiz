@@ -111,7 +111,7 @@
       "keys": ""
     },
     "flexibleBlockPlacementAdjacent": {
-      "keys": ""
+      "keys": "C"
     },
     "flexibleBlockPlacementOffset": {
       "keys": "LEFT_CONTROL"
@@ -870,7 +870,7 @@
       "keys": ""
     },
     "tweakFreeCamera": {
-      "keys": "F4"
+      "keys": "F6"
     },
     "tweakGammaOverride": {
       "keys": ""

@@ -71,5 +71,5 @@ key_key.waila.show_recipe_input:key.keyboard.unknown:NONE
 key_key.waila.show_recipe_output:key.keyboard.unknown:NONE
 key_iris.keybind.reload:key.keyboard.r:NONE
 key_iris.keybind.toggleShaders:key.keyboard.k:NONE
-key_iris.keybind.shaderPackSelection:key.keyboard.f7:NONE
+key_iris.keybind.shaderPackSelection:key.keyboard.unknown:NONE
 key_key.craftpresence.config_keycode.name:key.keyboard.f12:NONE

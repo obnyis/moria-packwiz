@@ -22,7 +22,7 @@ hash = "b42540b5a8004eff3101050380ec57909b13d67027fd5f5e7ee945638a799400"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "b1974b73beddb8bb4a54a9525b37ba2d7e936cc5886ba2e9b0d3e0715253407b"
+hash = "1fef11511454945be6ad8e58072f1b0b20378e269aa33cc887f10523c5cf76fc"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -30,7 +30,7 @@ hash = "daff43b6559aae217601727dfb7c9c9679e15616451296c413a1c9f06d792048"
 
 [[files]]
 file = "config/minihud.json"
-hash = "be8ffb9fbf0d9ef3c40816c17b1b252188b38e1354d221f8d52baf4fd81473d6"
+hash = "6734e811d8ec08bed3e1753962e76e11e415612891e427c0b44f7ebb7943f9ab"
 
 [[files]]
 file = "config/minihud/moria.stealthwing.com_dim_minecraft_overworld.json"
@@ -42,7 +42,7 @@ hash = "edb37fc7db35b2a6f068aee3b58a36fe028d7439ff7b2c459aabb7b02975a278"
 
 [[files]]
 file = "config/tweakeroo.json"
-hash = "b8640126833841160047057c32662175a279a31b68a019f2b452be0983e0844f"
+hash = "dfe2dfa2008a172f1ae086bb6bcf5cdde06bbccf558810e387cf20dc88160d92"
 
 [[files]]
 file = "config/waystones-common.toml"
