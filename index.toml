@@ -62,7 +62,7 @@ hash = "edb37fc7db35b2a6f068aee3b58a36fe028d7439ff7b2c459aabb7b02975a278"
 
 [[files]]
 file = "config/tweakeroo.json"
-hash = "dfe2dfa2008a172f1ae086bb6bcf5cdde06bbccf558810e387cf20dc88160d92"
+hash = "731da81ca9d57552008809b84e1c0f6ec8927ceb6792c795d7f13dc41122b45d"
 
 [[files]]
 file = "config/waystones-common.toml"
