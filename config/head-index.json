@@ -1,5 +1,5 @@
 {
-  "permissionLevel": 2,
+  "permissionLevel": 0,
   "economyType": "ITEM",
   "costType": "minecraft:emerald",
   "costAmount": 1

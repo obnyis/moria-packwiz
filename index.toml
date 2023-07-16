@@ -42,7 +42,7 @@ hash = "c7c3b66195b1fe378e28a78c54b2b085cef59f6fec017c4bb54b736affc2d06c"
 
 [[files]]
 file = "config/head-index.json"
-hash = "965ca3743b715330e48f8da6abca20bdc9f9ba2ea4be4fb032b5cafb0c6a5bad"
+hash = "4b9b74da244689f704b99a67184e6c783466ba85989274d2a70547bffcb2c646"
 
 [[files]]
 file = "config/magnumtorch-server.toml"
