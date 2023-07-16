@@ -374,11 +374,6 @@ hash = "84051f9a80197c269ac98cc61291d9e1ebcc3bfce231678887cf809a2ba9d7b7"
 metafile = true
 
 [[files]]
-file = "mods/gravestones.pw.toml"
-hash = "ace9dbdca93d66c486a4474081fc91219640e506b62679bce01318c34af51e13"
-metafile = true
-
-[[files]]
 file = "mods/headindex.pw.toml"
 hash = "68cdfa4f3e52b3927ee155330f4ed592e3ca0f5c5778e94360058526266e42db"
 metafile = true
@@ -716,6 +711,11 @@ metafile = true
 [[files]]
 file = "mods/tweakeroo.pw.toml"
 hash = "793828de5536b0297b7b635f861d9204a4e565504b52dea4ef2ac8dc27c04eda"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "fda4e069e887ff780b767ba811a8e882ae527df4bdd8eacd7d60bab76eb27f27"
 metafile = true
 
 [[files]]
