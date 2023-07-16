@@ -264,11 +264,6 @@ hash = "82285f2aa33891d7b7ad1f9d6b8cdacb46aa2bde7d091cc65d279b0ef0caeb3a"
 metafile = true
 
 [[files]]
-file = "mods/creo-lib.pw.toml"
-hash = "500d35ccd337f961d9e2f0447cec03f8d96ccf7a416daf250a794dec40ff2290"
-metafile = true
-
-[[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "154fe78a75a9830ea494223ee56c7821a075754dbe09bab5bf3d9f9b1fd2484f"
 metafile = true
