@@ -65,6 +65,10 @@ file = "config/tweakeroo.json"
 hash = "731da81ca9d57552008809b84e1c0f6ec8927ceb6792c795d7f13dc41122b45d"
 
 [[files]]
+file = "config/universal-graves/config.json"
+hash = "abfef8d9a13ae48c3b8a91cc6014e38156e46cf16ed2cb979e38f4863ee4db83"
+
+[[files]]
 file = "config/waystones-common.toml"
 hash = "069efbfa77b0d6a5e75180d9d854bdc12fae64fb0adbe7dc01080c6f4c9f2e11"
 
