@@ -98,7 +98,7 @@ dimensionAllowList = [ "minecraft:overworld", "minecraft:the_nether", "minecraft
 dimensionDenyList = [  ]
 
 # Ensures that pretty much every village will have a waystone, by spawning it as early as possible. In addition, this means waystones will generally be located in the center of the village.
-forceSpawnInVillages = false
+forceSpawnInVillages = true
 
 # Approximate chunk distance between waystones generated freely in world generation. Set to 0 to disable generation.
 frequency = 25

@@ -70,7 +70,7 @@ hash = "abfef8d9a13ae48c3b8a91cc6014e38156e46cf16ed2cb979e38f4863ee4db83"
 
 [[files]]
 file = "config/waystones-common.toml"
-hash = "069efbfa77b0d6a5e75180d9d854bdc12fae64fb0adbe7dc01080c6f4c9f2e11"
+hash = "f9957af6539147a59190a45c765ad53fd3df847b0b542ca938991f8a6f449b99"
 
 [[files]]
 file = "mods/additional-lanterns.pw.toml"
