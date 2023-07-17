@@ -1,6 +1,12 @@
 # bundles minecraft:bundle
-craftingTable.addShaped("moria_bundle_byrabbit", <item:minecraft:bundle>,[    [<item:minecraft:string>, <item:minecraft:rabbit_hide>, <item:minecraft:string>]   ,    [<item:minecraft:rabbit_hide>, <item:minecraft:air>, <item:minecraft:rabbit_hide>]   ,   [<item:minecraft:rabbit_hide>, <item:minecraft:rabbit_hide>, <item:minecraft:rabbit_hide>]           ]    );
-craftingTable.addShaped("moria_bundle_bycow", <item:minecraft:bundle>,[    [<item:minecraft:string>, <item:minecraft:leather>, <item:minecraft:string>]   ,    [<item:minecraft:leather>, <item:minecraft:air>, <item:minecraft:leather>]   ,   [<item:minecraft:leather>, <item:minecraft:leather>, <item:minecraft:leather>]           ]    );
+craftingTable.addShaped("moria_bundle_byrabbit", <item:minecraft:bundle>,
+  [    [<item:minecraft:string>,      <item:minecraft:rabbit_hide>, <item:minecraft:string>]   ,    
+       [<item:minecraft:rabbit_hide>, <item:minecraft:air>,         <item:minecraft:rabbit_hide>]   ,   
+	     [<item:minecraft:rabbit_hide>, <item:minecraft:rabbit_hide>, <item:minecraft:rabbit_hide>]           ]    );
+craftingTable.addShaped("moria_bundle_bycow", <item:minecraft:bundle>,
+  [    [<item:minecraft:string>, <item:minecraft:leather>, <item:minecraft:string>]   ,    
+       [<item:minecraft:leather>, <item:minecraft:air>, <item:minecraft:leather>]   ,   
+	     [<item:minecraft:leather>, <item:minecraft:leather>, <item:minecraft:leather>]           ]    );
 
 # light block minecraft:light
 craftingTable.addShapeless("moria_light", <item:minecraft:light>, [<item:minecraft:glass>, <item:minecraft:torch>]);
@@ -44,3 +50,27 @@ craftingTable.addShapeless("moria_unpack_wart", <item:minecraft:nether_wart>*9, 
 # unpackable ice
 craftingTable.addShapeless("moria_unpack_ice1", <item:minecraft:ice>*9, [<item:minecraft:packed_ice>]);
 craftingTable.addShapeless("moria_unpack_ice2", <item:minecraft:packed_ice>*9, [<item:minecraft:blue_ice>]);
+
+
+# smallPooka's ocean empire flag
+craftingTable.addShapeless("moria_smallpooka_empire",   
+  <item:minecraft:white_banner>.withTag(
+     {BlockEntityTag: {Patterns: [{Pattern: "glb", Color: 14}, {Pattern: "hhb", Color: 3}, {Pattern: "bt", Color: 0}, {Pattern: "bs", Color: 5}, {Pattern: "cbo", Color: 3}, {Pattern: "ts", Color: 3}]}}),
+  [<tag:items:minecraft:banners>,<item:minecraft:prismarine>]);
+
+# logs to sticks
+craftingTable.addShaped("moria_logs_to_sticks", <item:minecraft:stick>*16,
+  [    [<tag:items:minecraft:logs>]   ,    
+       [<tag:items:minecraft:logs>]          ]    );
+
+# logs to chests
+craftingTable.addShaped("moria_logs_to_chests", <item:minecraft:chest>*4,
+  [    [<tag:items:minecraft:logs>, <tag:items:minecraft:logs>, <tag:items:minecraft:logs>]   ,    
+       [<tag:items:minecraft:logs>, <item:minecraft:air>,       <tag:items:minecraft:logs>]   ,   
+	   [<tag:items:minecraft:logs>, <tag:items:minecraft:logs>, <tag:items:minecraft:logs>]           ]    );
+
+
+	   
+# craft small dripleaf - haliade
+craftingTable.addShapeless("moria_haliade_small_dripleaf",  <item:minecraft:small_dripleaf>,  [<item:minecraft:big_dripleaf>]);
+
