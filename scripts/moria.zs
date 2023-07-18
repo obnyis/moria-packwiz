@@ -16,7 +16,7 @@ craftingTable.addShaped("moria_bundle_bycow", <item:minecraft:bundle>,
 craftingTable.addShapeless("moria_light", <item:minecraft:light>, [<item:minecraft:glass>, <item:minecraft:torch>]);
 
 # Rotten flesh to Leather
-blastFurnace.addRecipe("moria_flesh", <item:minecraft:leather>, <item:minecraft:rotten_flesh>, 0, 100);
+blastFurnace.addRecipe("moria_flesh_bf", <item:minecraft:leather>, <item:minecraft:rotten_flesh>, 0, 100);
 furnace.addRecipe("moria_flesh", <item:minecraft:leather>, <item:minecraft:rotten_flesh>, 0, 100);
 
 # Cobble to gravel to sand
