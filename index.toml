@@ -188,6 +188,21 @@ hash = "3fba28c23d90485e6b2086b2800b8b743cc65e61bcbfadea3b1ec40a9f6bcdef"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "7a8878adad1c35daaba04095a2a52b56b7263f1042e2273419cc82475bbd9903"
+metafile = true
+
+[[files]]
+file = "mods/botany-pots.pw.toml"
+hash = "c2cab6b775d77523c1c19c4988d92a7133449c90e45e6ea6d38d5e9da448cbd7"
+metafile = true
+
+[[files]]
+file = "mods/botany-trees.pw.toml"
+hash = "04523d325266783ef97834931da83e62a6449dd722401a88b1f476a8c07384b3"
+metafile = true
+
+[[files]]
 file = "mods/bushier-flowers.pw.toml"
 hash = "28fb59dd8303b624eae37b491010478ee8f850edc3116111ebf715a3a3673e3b"
 metafile = true
