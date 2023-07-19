@@ -473,6 +473,11 @@ hash = "c80ed9ec25793ad290a98d74ce07c8678242fd4ffa33a8ff8dd465b8bd9d1193"
 metafile = true
 
 [[files]]
+file = "mods/kiwi.pw.toml"
+hash = "6dcf067135f24f4a3488bb1be306e0886bc234bf3c562c69fe6185445cf85af0"
+metafile = true
+
+[[files]]
 file = "mods/kleeslabs.pw.toml"
 hash = "85e5ee80b3d6911217d846c082408fdf008aaf10386032e90a9caed44c89f785"
 metafile = true
