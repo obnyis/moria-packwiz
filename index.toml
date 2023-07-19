@@ -178,6 +178,11 @@ hash = "2ccbc3d8b4b49b9b24196a6b3a8274598468bf472c75c37933d23245f729e6f0"
 metafile = true
 
 [[files]]
+file = "mods/block-runner.pw.toml"
+hash = "3088828f33b6af08bb828cb5cd43e6f58f7617468756edc4557f5de7bb156e6c"
+metafile = true
+
+[[files]]
 file = "mods/bobby.pw.toml"
 hash = "3fba28c23d90485e6b2086b2800b8b743cc65e61bcbfadea3b1ec40a9f6bcdef"
 metafile = true
@@ -240,6 +245,11 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "204b3eb115e418bdad4f5f2e8ef49f0c8b8f10ad062ca10e05e1e8cde4de45ab"
+metafile = true
+
+[[files]]
+file = "mods/companion.pw.toml"
+hash = "175bcd67194cf6c6dbe709fd893bf52a884fb735294b019b60829b8a9430e904"
 metafile = true
 
 [[files]]
@@ -510,6 +520,11 @@ metafile = true
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "97ffbc7d0e4087777c5e3732780f01958f99d44c4f09fd534bbb8f239d4980a1"
+metafile = true
+
+[[files]]
+file = "mods/midnightcontrols.pw.toml"
+hash = "86de9bb729ed3f47685a3ffaee299550d471aa9da83a435d674cbfed17973d68"
 metafile = true
 
 [[files]]

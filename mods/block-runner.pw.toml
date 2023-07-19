@@ -1,0 +1,13 @@
+name = "Block Runner"
+filename = "BlockRunner-v8.0.0-1.20.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1VSGxqkt/versions/QJw0n4U3/BlockRunner-v8.0.0-1.20.1-Fabric.jar"
+hash-format = "sha1"
+hash = "5ece14ad559b7e9394a416f914b4d2388509efe7"
+
+[update]
+[update.modrinth]
+mod-id = "1VSGxqkt"
+version = "QJw0n4U3"
