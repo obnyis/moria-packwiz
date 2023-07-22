@@ -115,3 +115,46 @@ craftingTable.addShaped("moria_logs_to_chests", <item:minecraft:chest> * 4,
 
 # craft small dripleaf - haliade
 craftingTable.addShapeless("moria_haliade_small_dripleaf", <item:minecraft:small_dripleaf>, [<item:minecraft:big_dripleaf>]);
+
+
+
+
+# block gen - set up soil just once for 'magic moria'
+<recipetype:botanypots:soil>.addJsonRecipe("moria_magic_soil", { "type": "botanypots:soil",
+  "input":   {    "item": "minecraft:diamond_hoe"  },
+  "display": {    "block": "minecraft:magma_block" },
+  "categories": [    "moria_magic"  ],
+  "growthModifier": 1,
+  "lightLevel": 15
+}
+);
+
+
+#function to set up a BLOCK as a seed. x16 per minute (1200)
+#  note - in CT Logs this throws a warning as "minecraft:block" gets converted to "minecraft.block" for the first line ID
+
+function addMagicMoria(itemIn as string) as void {  
+	<recipetype:botanypots:crop>.addJsonRecipe("moria_magic_" + itemIn, { "type": "botanypots:crop",
+	  "seed":       { "item": itemIn  },
+	  "categories": [ "moria_magic"  ],
+	  "growthTicks":   1200,
+	  "display":    { "block": itemIn },
+	  "drops": [  {
+	      "chance":    1.00,
+	      "output": { "item": itemIn  },
+		  "minRolls":  16,
+		  "maxRolls":  16
+	    }  ]
+	}
+	);
+}
+
+# actually set up blocks
+addMagicMoria("minecraft:sand");
+addMagicMoria("minecraft:netherrack");
+addMagicMoria("minecraft:end_stone");
+addMagicMoria("minecraft:clay");
+
+
+
+
