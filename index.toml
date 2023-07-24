@@ -66,7 +66,7 @@ hash = "731da81ca9d57552008809b84e1c0f6ec8927ceb6792c795d7f13dc41122b45d"
 
 [[files]]
 file = "config/universal-graves/config.json"
-hash = "abfef8d9a13ae48c3b8a91cc6014e38156e46cf16ed2cb979e38f4863ee4db83"
+hash = "d7c6cb539e8d859d28e866505cc5f29d67c13174c88d9e8d9374aea194963899"
 
 [[files]]
 file = "config/waystones-common.toml"
