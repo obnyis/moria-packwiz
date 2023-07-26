@@ -5,6 +5,9 @@ on:
       - main
   pull_request:
 
+permissions:
+   contents: write
+
 jobs:
   packwiz-refresh:
     runs-on: ubuntu-latest
