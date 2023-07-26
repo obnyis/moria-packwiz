@@ -1,0 +1,30 @@
+name: 'Packwiz: refresh index.toml'
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+  pull_request:
+
+jobs:
+  packwiz-refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-go@v4
+      - name: Check for files that are out of sync with the index
+        run: |
+          go install github.com/packwiz/packwiz@latest
+          packwiz refresh
+      - name: Verify Changed files
+        uses: tj-actions/verify-changed-files@v16
+        id: verify-changed-files
+        with:
+          files: |
+             index.toml
+             pack.toml
+      - name: Run step only when any of the above files change.
+        if: steps.verify-changed-files.outputs.files_changed == 'true'
+        run: |
+          echo "Changed files: ${{ steps.verify-changed-files.outputs.changed_files }}"
+          exit 1
