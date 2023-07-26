@@ -66,6 +66,9 @@ craftingTable.addShapeless("moria_coral5_fan", <item:minecraft:horn_coral_fan>, 
 # unpackable nether wart
 craftingTable.addShapeless("moria_unpack_wart", <item:minecraft:nether_wart>*9, [<item:minecraft:nether_wart_block>]);
 
+# unpackable nether quartz
+craftingTable.addShapeless("moria_unpack_qwart", <item:minecraft:quartz>*4, [<item:minecraft:quartz_block>]);
+
 # graveyard bones
 #graveyard specific moss
 # craftingTable.addShapeless("moria_grave1", <item:graveyard:skull_with_rib_cage>, [<item:graveyard:bone_dagger>,<item:minecraft:bone>]);
