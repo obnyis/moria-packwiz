@@ -145,19 +145,19 @@ function addMagicMoria(itemIn as string) as void {
 	  "drops": [  {
 	      "chance":    1.00,
 	      "output": { "item": itemIn  },
-		  "minRolls":  16,
-		  "maxRolls":  16
+		  "minRolls":  1,
+		  "maxRolls":  1
 	    }  ]
 	}
 	);
 }
 
-# actually set up blocks
-addMagicMoria("minecraft:sand");
-addMagicMoria("minecraft:netherrack");
-addMagicMoria("minecraft:end_stone");
-addMagicMoria("minecraft:clay");
-addMagicMoria("minecraft:quartz_block");
+# actually set up blocks - TODO: to have variable output size
+addMagicMoria("minecraft:sand");          #16
+addMagicMoria("minecraft:netherrack");    #16
+addMagicMoria("minecraft:end_stone");     #16
+addMagicMoria("minecraft:clay");          
+addMagicMoria("minecraft:quartz_block");  #1
 
 
 
