@@ -154,7 +154,7 @@ addMagicMoria("minecraft:sand");
 addMagicMoria("minecraft:netherrack");
 addMagicMoria("minecraft:end_stone");
 addMagicMoria("minecraft:clay");
-
+addMagicMoria("minecraft:quartz_block");
 
 
 
