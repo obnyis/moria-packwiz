@@ -136,28 +136,30 @@ craftingTable.addShapeless("moria_haliade_small_dripleaf", <item:minecraft:small
 #function to set up a BLOCK as a seed. x16 per minute (1200)
 #  note - in CT Logs this throws a warning as "minecraft:block" gets converted to "minecraft.block" for the first line ID
 
-function addMagicMoria(itemIn as string) as void {  
-	<recipetype:botanypots:crop>.addJsonRecipe("moria_magic_" + itemIn, { "type": "botanypots:crop",
-	  "seed":       { "item": itemIn  },
-	  "categories": [ "moria_magic"  ],
-	  "growthTicks":   1200,
-	  "display":    { "block": itemIn },
-	  "drops": [  {
-	      "chance":    1.00,
-	      "output": { "item": itemIn  },
-		  "minRolls":  1,
-		  "maxRolls":  1
+function addBotanyPotsBlockgen(itemIn as string, minOut as int = 1, maxOut as int = 1) as void {
+	var recipeID = "moria_magic_" + itemIn.replace(":","_");
+	<recipetype:botanypots:crop>.addJsonRecipe(recipeID, { "type": "botanypots:crop",
+	    "seed":       { "item": itemIn  },
+	    "categories": [ "moria_magic"  ],
+	    "growthTicks":   1200,
+	    "display":    { "block": itemIn },
+	    "drops": [  {
+	        "chance":    1.00,
+	        output": { "item": itemIn  },
+		    "minRolls":  minOut,
+		    "maxRolls":  maxOut
 	    }  ]
 	}
 	);
 }
 
 # actually set up blocks - TODO: to have variable output size
-addMagicMoria("minecraft:sand");          #16
-addMagicMoria("minecraft:netherrack");    #16
-addMagicMoria("minecraft:end_stone");     #16
-addMagicMoria("minecraft:clay");          
-addMagicMoria("minecraft:quartz_block");  #1
+addBotanyPotsBlockgen("minecraft:sand");          #16
+addBotanyPotsBlockgen("minecraft:netherrack");    #16
+addBotanyPotsBlockgen("minecraft:end_stone");     #16
+addBotanyPotsBlockgen("minecraft:clay");          
+addBotanyPotsBlockgen("minecraft:quartz_block");  #1
+
 
 
 
