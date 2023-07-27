@@ -145,7 +145,7 @@ function addBotanyPotsBlockgen(itemIn as string, minOut as int = 1, maxOut as in
 	    "display":    { "block": itemIn },
 	    "drops": [  {
 	        "chance":    1.00,
-	        output": { "item": itemIn  },
+	        "output": { "item": itemIn  },
 		    "minRolls":  minOut,
 		    "maxRolls":  maxOut
 	    }  ]
@@ -154,11 +154,11 @@ function addBotanyPotsBlockgen(itemIn as string, minOut as int = 1, maxOut as in
 }
 
 # actually set up blocks - TODO: to have variable output size
-addBotanyPotsBlockgen("minecraft:sand");          #16
-addBotanyPotsBlockgen("minecraft:netherrack");    #16
-addBotanyPotsBlockgen("minecraft:end_stone");     #16
+addBotanyPotsBlockgen("minecraft:sand",			16, 16);
+addBotanyPotsBlockgen("minecraft:netherrack",	16, 16);
+addBotanyPotsBlockgen("minecraft:end_stone",	16, 16);
 addBotanyPotsBlockgen("minecraft:clay");          
-addBotanyPotsBlockgen("minecraft:quartz_block");  #1
+addBotanyPotsBlockgen("minecraft:quartz_block");
 
 
 
