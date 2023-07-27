@@ -122,22 +122,34 @@ craftingTable.addShapeless("moria_haliade_small_dripleaf", <item:minecraft:small
 
 
 
-# block gen - set up soil just once for 'magic moria'
+# OnceOff to set up a custom SOIL for BotonyPots mod. 1.20.1
+# Obviously, these 'categories' will tie a 'soil' to a seed recipie where the actual output is listed.
+# Here, I use special item 'input soil' and display for our server 'magic' feel and minimum cost of entry.
+#   eg from BotanyPots https://github.com/Darkhax-Minecraft/BotanyPots/blob/1.19.4/Common/src/main/resources/data/botanypots/recipes/minecraft/soil/lava.json
+
 <recipetype:botanypots:soil>.addJsonRecipe("moria_magic_soil", { "type": "botanypots:soil",
-  "input":   {    "item": "minecraft:diamond_hoe"  },
-  "display": {    "block": "minecraft:magma_block" },
-  "categories": [    "moria_magic"  ],
+  "input":   {     "item": "minecraft:diamond_hoe"  },
+  "display": {     "block": "minecraft:magma_block" },
+  "categories": [  "moria_magic"  ],
   "growthModifier": 1,
-  "lightLevel": 15
+  "lightLevel":     15
 }
 );
 
 
-#function to set up a BLOCK as a seed. x16 per minute (1200)
-#  note - in CT Logs this throws a warning as "minecraft:block" gets converted to "minecraft.block" for the first line ID
+# function to set up a BLOCK as a seed for BotonyPots mod. x16 per minute (1200) 1.20.1
 
 function addBotanyPotsBlockgen(itemIn as string, minOut as int = 1, maxOut as int = 1) as void {
-	var recipeID = "moria_magic_" + itemIn.replace(":","_");
+	# crafttweaker needs a unique recipe ID, so make one up but fix any colon characters.
+	var recipeID = "moria_magic_potblockgen_" + itemIn.replace(":","_");
+	
+	
+	# addJsonRecipie uses the same format as real recipies found in github resources/data/[mod]/recipies
+	# ie. the stuff between the curly brackets.
+	#  eg for BotanyPots https://github.com/Darkhax-Minecraft/BotanyPots/blob/1.19.4/Common/src/main/resources/data/botanypots/recipes/minecraft/crop/allium.json
+	# CraftTweaker wiki uses scripted objects which has benifits, but just I use string inputs here to visually match the original recipie closer, and much easier to understand.
+	
+	
 	<recipetype:botanypots:crop>.addJsonRecipe(recipeID, { "type": "botanypots:crop",
 	    "seed":       { "item": itemIn  },
 	    "categories": [ "moria_magic"  ],
@@ -153,7 +165,8 @@ function addBotanyPotsBlockgen(itemIn as string, minOut as int = 1, maxOut as in
 	);
 }
 
-# actually set up blocks - TODO: to have variable output size
+# Actually set up blocks. Yes, I align parameters for readability.
+
 addBotanyPotsBlockgen("minecraft:sand",			16, 16);
 addBotanyPotsBlockgen("minecraft:netherrack",	16, 16);
 addBotanyPotsBlockgen("minecraft:end_stone",	16, 16);
