@@ -596,8 +596,18 @@ hash = "cac83d4a9c6ed87fa090d03900d4d57e60de37abc0b5cd231dcc534fde45de31"
 metafile = true
 
 [[files]]
+file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
+hash = "635f403bf39da8987cdeea661670b4d40668dd9ffe8d8494026c42659ab98617"
+metafile = true
+
+[[files]]
 file = "mods/just-enough-professions-jep.pw.toml"
 hash = "a5fe053fd976ab7bf9f0763b931ba76485832bf43cc74911712e70dbf81fd16f"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "8568f806870e3bed6820e8dafc69be92a5bc1bc1efbfc80136f91e9bbcb04c32"
 metafile = true
 
 [[files]]
