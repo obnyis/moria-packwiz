@@ -73,6 +73,134 @@ file = "config/waystones-common.toml"
 hash = "f9957af6539147a59190a45c765ad53fd3df847b0b542ca938991f8a6f449b99"
 
 [[files]]
+file = "dynmap/renderdata/additionallanterns-models.txt"
+hash = "612d0bd3072d2234e764e81669206c2171e130d1501c9872f2aad0f7fe224475"
+
+[[files]]
+file = "dynmap/renderdata/additionallanterns-texture.txt"
+hash = "d96aff534f4e4c90931da6cc8f3c4a2efe89f69eef03cb58ea9cef33ebcd1471"
+
+[[files]]
+file = "dynmap/renderdata/ae2-models.txt"
+hash = "d0edee827a74a25ddc2e54b885bd6890b70ac60d9b8c272d29db43de702615f8"
+
+[[files]]
+file = "dynmap/renderdata/ae2-texture.txt"
+hash = "d4919ca8aaee40c292ccfd9c6e66ad68070ee6d29eebc50a73492fe2dab14417"
+
+[[files]]
+file = "dynmap/renderdata/betterend-models.txt"
+hash = "96c0393ecb38adebebc7401ef51494f7d23baccb74c1e531231580165be5aff6"
+
+[[files]]
+file = "dynmap/renderdata/betterend-texture.txt"
+hash = "0feeca69c483504ed9855b8e1182444c957413269e2952ae1da502bb8e120557"
+
+[[files]]
+file = "dynmap/renderdata/betternether-models.txt"
+hash = "b6a1a2c4578a59d75a2e7589caae9a8dddfc9a295e063e62fe4874436eeef099"
+
+[[files]]
+file = "dynmap/renderdata/betternether-texture.txt"
+hash = "ca0a18565b222c931143638bf278f63965c8ec0ee7a7d8ad6e03f13b1b6203d8"
+
+[[files]]
+file = "dynmap/renderdata/bitsandchisels-models.txt"
+hash = "1771cac0d6b171158c6ba2c80156fc19ee6e9069f1cde16ff048ae0e480f8c25"
+
+[[files]]
+file = "dynmap/renderdata/bitsandchisels-texture.txt"
+hash = "539cb6a13d084aac3b405f3755ba88fa0bb8bd6e0d59712127f68454e680f1f3"
+
+[[files]]
+file = "dynmap/renderdata/botanypots-models.txt"
+hash = "4702229c4c9a8d24f06b1677434400c1ab6dedd48d30479dae25171784eb335d"
+
+[[files]]
+file = "dynmap/renderdata/botanypots-texture.txt"
+hash = "15509db680fd656bb0c5880d0a503907cc1aab6c2a48a4bba7723c12b841669b"
+
+[[files]]
+file = "dynmap/renderdata/bushierflowers-models.txt"
+hash = "9309b7184ba830289ab905506da1c1875e44ecfe4cc337f52385ce5c6f6b2564"
+
+[[files]]
+file = "dynmap/renderdata/bushierflowers-texture.txt"
+hash = "d3b758178eb56589552fb508657c31ed613b5593c27e8f6e67ff9205eb14c7d2"
+
+[[files]]
+file = "dynmap/renderdata/chalk-models.txt"
+hash = "e939ae58527eb6819fe3920225de132e604d499aa34335fece76f28dc79ffabd"
+
+[[files]]
+file = "dynmap/renderdata/chalk-texture.txt"
+hash = "14ca89ff15a8031bc76ecee28f3d50a407f1ce94651e01b2d5cc18bd0aac9cdf"
+
+[[files]]
+file = "dynmap/renderdata/clutter-models.txt"
+hash = "df589618218b503f62894d173b354e5cfd36c42dd5da4cb610feb634f37eeb14"
+
+[[files]]
+file = "dynmap/renderdata/clutter-texture.txt"
+hash = "40bd0604b65a8c4ce9f80014ffa072e4bfa431ac31d99bf55d2270c589bc395f"
+
+[[files]]
+file = "dynmap/renderdata/graveyard-models.txt"
+hash = "a2e0efa6206615e114e694aca308bc4b2dacb05beef5360dc8411f40604afbbe"
+
+[[files]]
+file = "dynmap/renderdata/graveyard-texture.txt"
+hash = "2efab4aa18b7ae46c0299e491b3e21fceccd3bd7df58d02a8bfad2b6dcefd3a5"
+
+[[files]]
+file = "dynmap/renderdata/lootr-models.txt"
+hash = "4b4f604735455db2b09e1b608729262603e13c51838a831180b6c4514104e625"
+
+[[files]]
+file = "dynmap/renderdata/lootr-texture.txt"
+hash = "aa37fb127c6ec563b2423b5f37904eb6426e0b162f452427d0d2479426cd7fe2"
+
+[[files]]
+file = "dynmap/renderdata/magnumtorch-models.txt"
+hash = "d36b1c933c9ce3d33a673565ed87c330ef593cee40aef49ef5ad15ad9dcb2473"
+
+[[files]]
+file = "dynmap/renderdata/magnumtorch-texture.txt"
+hash = "155eda22c252813f308496a3fcd3d40dccf4128acec6185be5105dc048458c72"
+
+[[files]]
+file = "dynmap/renderdata/powah-models.txt"
+hash = "a5e4e4a62bf7cebd6b7784f1b57d566d95360b428948b67b44e4d5c06695a59b"
+
+[[files]]
+file = "dynmap/renderdata/powah-texture.txt"
+hash = "5d052852cbfd4cc1cf6844e32d975a5a7206fd30282c5398d246efd254d304ac"
+
+[[files]]
+file = "dynmap/renderdata/rechiseled-models.txt"
+hash = "ac890a0823a9dff4cf905c71998d019de0f3f7a2fc503ef881a1bd4aaf20dfae"
+
+[[files]]
+file = "dynmap/renderdata/rechiseled-texture.txt"
+hash = "f48fb3d45c21b21fcd3dea3b657070eedcc26e6435e88ebb81e2d6a9664b2ee5"
+
+[[files]]
+file = "dynmap/renderdata/waystones-models.txt"
+hash = "b5cbcbed70ad89d65d42258ec76f9b9588d6f9e4b5d402ee5741abdf63f17267"
+
+[[files]]
+file = "dynmap/renderdata/waystones-texture.txt"
+hash = "1aaecc10f2a116de0a86ec78675e74c580eeba9b64c10dd528e6db8e7e86fec5"
+
+[[files]]
+file = "dynmap/renderdata/wunderreich-models.txt"
+hash = "02407e963aa1d7e9b8434df916a87413ca9015352a7b4b03b37b2c497c0c8522"
+
+[[files]]
+file = "dynmap/renderdata/wunderreich-texture.txt"
+hash = "2482069c9dbde574a5bd83d8054b0a7af51a0bf07b3293725015dc65f54c54a4"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "44d94f22952ef9fdcaca24a0a7db4c0a43e15656ea21d1e96fb6b848f04ec490"
 metafile = true
