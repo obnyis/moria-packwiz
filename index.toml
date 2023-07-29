@@ -119,7 +119,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "28e70f09e53039ed93618487ed8cac23327fd588b6bae8105d1e15797794f1cf"
+hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
 metafile = true
 
 [[files]]
@@ -635,6 +635,11 @@ metafile = true
 [[files]]
 file = "mods/petowner.pw.toml"
 hash = "f5f1dc5170acb09c40da32a10fed28b32043f7d2394092683b67e752096c78bc"
+metafile = true
+
+[[files]]
+file = "mods/powah.pw.toml"
+hash = "f63f57d7be997a078288ed8d147c8991b69c9a2c527f24f438383db5234ead6b"
 metafile = true
 
 [[files]]
