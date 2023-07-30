@@ -11,8 +11,3 @@ hash = "5efd70b16a14534e7def9fdedbb994e2418fc6af"
 [update.modrinth]
 mod-id = "uEfK2CXF"
 version = "acEnHucn"
-
-[option]
-default = false
-description = "JEI integration that adds info on mobs, world gen, villagers and many more!"
-optional = true
