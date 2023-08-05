@@ -33,7 +33,7 @@ craftingTable.addShaped("moria_coral_brain", <item:minecraft:brain_coral_block>,
         [<item:minecraft:brain_coral>, <item:minecraft:brain_coral>]
     ]);
 craftingTable.addShaped("moria_coral_fire", <item:minecraft:fire_coral_block>,
-    [    
+    [
         [<item:minecraft:fire_coral>, <item:minecraft:fire_coral>],
         [<item:minecraft:fire_coral>, <item:minecraft:fire_coral>]
     ]);
@@ -127,52 +127,62 @@ craftingTable.addShapeless("moria_haliade_small_dripleaf", <item:minecraft:small
 # Here, I use special item 'input soil' and display for our server 'magic' feel and minimum cost of entry.
 #   eg from BotanyPots https://github.com/Darkhax-Minecraft/BotanyPots/blob/1.19.4/Common/src/main/resources/data/botanypots/recipes/minecraft/soil/lava.json
 
-<recipetype:botanypots:soil>.addJsonRecipe("moria_magic_soil", { "type": "botanypots:soil",
-  "input":   {     "item": "minecraft:diamond_hoe"  },
-  "display": {     "block": "minecraft:magma_block" },
-  "categories": [  "moria_magic"  ],
-  "growthModifier": 1,
-  "lightLevel":     15
-}
-);
+<recipetype:botanypots:soil>.addJsonRecipe("moria_magic_soil",
+    {
+        "type": "botanypots:soil",
+        "input": { "item": "minecraft:diamond_hoe" },
+        "display": { "block": "minecraft:magma_block" },
+        "categories": [ "moria_magic" ],
+        "growthModifier": 1,
+        "lightLevel": 15
+    });
 
 
 # function to set up a BLOCK as a seed for BotonyPots mod. x16 per minute (1200) 1.20.1
 
 function addBotanyPotsBlockgen(itemIn as string, minOut as int = 1, maxOut as int = 1) as void {
-	# crafttweaker needs a unique recipe ID, so make one up but fix any colon characters.
-	var recipeID = "moria_magic_potblockgen_" + itemIn.replace(":","_");
-	
-	
-	# addJsonRecipie uses the same format as real recipies found in github resources/data/[mod]/recipies
-	# ie. the stuff between the curly brackets.
-	#  eg for BotanyPots https://github.com/Darkhax-Minecraft/BotanyPots/blob/1.19.4/Common/src/main/resources/data/botanypots/recipes/minecraft/crop/allium.json
-	# CraftTweaker wiki uses scripted objects which has benifits, but just I use string inputs here to visually match the original recipie closer, and much easier to understand.
-	
-	
-	<recipetype:botanypots:crop>.addJsonRecipe(recipeID, { "type": "botanypots:crop",
-	    "seed":       { "item": itemIn  },
-	    "categories": [ "moria_magic"  ],
-	    "growthTicks":   1200,
-	    "display":    { "block": itemIn },
-	    "drops": [  {
-	        "chance":    1.00,
-	        "output": { "item": itemIn  },
-		    "minRolls":  minOut,
-		    "maxRolls":  maxOut
-	    }  ]
-	}
-	);
+    # crafttweaker needs a unique recipe ID, so make one up but fix any colon characters.
+    var recipeID = "moria_magic_potblockgen_" + itemIn.replace(":","_");
+
+
+    # addJsonRecipie uses the same format as real recipies found in github resources/data/[mod]/recipies
+    # ie. the stuff between the curly brackets.
+    #  eg for BotanyPots https://github.com/Darkhax-Minecraft/BotanyPots/blob/1.19.4/Common/src/main/resources/data/botanypots/recipes/minecraft/crop/allium.json
+    # CraftTweaker wiki uses scripted objects which has benifits, but just I use string inputs here to visually match the original recipie closer, and much easier to understand.
+
+
+    <recipetype:botanypots:crop>.addJsonRecipe(recipeID, { "type": "botanypots:crop",
+        "seed":       { "item": itemIn  },
+        "categories": [ "moria_magic"  ],
+        "growthTicks":   1200,
+        "display":    { "block": itemIn },
+        "drops": [  {
+            "chance":    1.00,
+            "output": { "item": itemIn  },
+            "minRolls":  minOut,
+            "maxRolls":  maxOut
+        }  ]
+    }
+    );
 }
 
 # Actually set up blocks. Yes, I align parameters for readability.
 
-addBotanyPotsBlockgen("minecraft:sand",			16, 16);
-addBotanyPotsBlockgen("minecraft:netherrack",	16, 16);
-addBotanyPotsBlockgen("minecraft:end_stone",	16, 16);
-addBotanyPotsBlockgen("minecraft:clay");          
+addBotanyPotsBlockgen("minecraft:sand",       16, 16);
+addBotanyPotsBlockgen("minecraft:netherrack", 16, 16);
+addBotanyPotsBlockgen("minecraft:end_stone",  16, 16);
+addBotanyPotsBlockgen("minecraft:clay");
 addBotanyPotsBlockgen("minecraft:quartz_block");
 
 
+craftingTable.addShapeless("moria_sharestone_loot",
+    <item:waystones:yellow_sharestone>.withDisplayName("Lootable Locations!"),
+    [<item:waystones:waystone>, <item:minecraft:yellow_dye>]);
 
+craftingTable.addShapeless("moria_sharestone_farm",
+    <item:waystones:green_sharestone>.withDisplayName("Farm Locations!"),
+    [<item:waystones:waystone>, <item:minecraft:green_dye>]);
 
+craftingTable.addShapeless("moria_sharestone_end",
+    <item:waystones:light_gray_sharestone>.withDisplayName("Locations of Interest!"),
+    [<item:waystones:waystone>, <item:minecraft:light_gray_dye>]);
