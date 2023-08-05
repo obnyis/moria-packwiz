@@ -11,8 +11,3 @@ hash = "9c239eb71c1d4bd0c029d2bf0c0dad270372def5"
 [update.modrinth]
 mod-id = "EO27GKs1"
 version = "xX035dS2"
-
-[option]
-default = false
-description = "JEI plugin that displays information on all status effects"
-optional = true

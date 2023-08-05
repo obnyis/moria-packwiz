@@ -1,0 +1,18 @@
+name = "Roughly Enough Professions (REP)"
+filename = "RoughlyEnoughProfessions-fabric-1.20.1-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/V8XJ8f5f/versions/tup2khor/RoughlyEnoughProfessions-fabric-1.20.1-2.0.1.jar"
+hash-format = "sha1"
+hash = "36e976d018b9dcedbabd9075575e4d25998b1d1e"
+
+[update]
+[update.modrinth]
+mod-id = "V8XJ8f5f"
+version = "tup2khor"
+
+[option]
+default = false
+description = "A REI addon that adds profession workstations"
+optional = true

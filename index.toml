@@ -272,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/bclib.pw.toml"
-hash = "610474d6775841595001cea2142f694a1b85cee652ee74fdd69b209ebffb5d46"
+hash = "82b70b3ca30f3eedea12049a414cf30baae722c79128b17789a93b6906dc3ca5"
 metafile = true
 
 [[files]]
@@ -292,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterend.pw.toml"
-hash = "3f5e19e1f1da44178143de5422b953e591f3d70e465bef70a619a4863647f813"
+hash = "09faca3cde7ffda49fcd3d4fc4f4a3d4f8774463170dfee83d6472f64bc84016"
 metafile = true
 
 [[files]]
@@ -597,7 +597,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
-hash = "635f403bf39da8987cdeea661670b4d40668dd9ffe8d8494026c42659ab98617"
+hash = "fd2d9ff498ea576f264bbfc68d451424b5c6c468ee7c2ca8b320064041341f18"
 metafile = true
 
 [[files]]
@@ -792,7 +792,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "be8073079bf41847c3aa1fb80c9941fa52b8c0ae39eb44a1475618d31c33e1d9"
+hash = "6ff7c68fb86e72f9f9feb1858e04cd2b7f80efda3b6819d484806a4316215557"
 metafile = true
 
 [[files]]
@@ -808,6 +808,16 @@ metafile = true
 [[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "67499e7799c4fc1401af3641a0bf57509b24cce9ee75ad9471efef36a6b3f822"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "d20b9ea2cd994aad8e34ca157bd3913539308c77201346fe23eeaa691c3b302e"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-professions-rep.pw.toml"
+hash = "5feb7daf2422283d3bdadb723146bf4efabde8c3803546b569d2ab6d506e9905"
 metafile = true
 
 [[files]]
