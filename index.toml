@@ -581,11 +581,6 @@ hash = "4cd28f6942c4df1618f8a9ccadc41e22666aef02b88315e0424b79c058c404cb"
 metafile = true
 
 [[files]]
-file = "mods/jei.pw.toml"
-hash = "96f8f756d49456c029f2615cf0c89d0b270dd75f717422b316cf9a18062c68d1"
-metafile = true
-
-[[files]]
 file = "mods/journeymap-integration.pw.toml"
 hash = "d785776e5926f9a95e43a74b26c2193264fd662b625d0080f12ef6f78cd13ee0"
 metafile = true
@@ -598,11 +593,6 @@ metafile = true
 [[files]]
 file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
 hash = "fd2d9ff498ea576f264bbfc68d451424b5c6c468ee7c2ca8b320064041341f18"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-professions-jep.pw.toml"
-hash = "a5fe053fd976ab7bf9f0763b931ba76485832bf43cc74911712e70dbf81fd16f"
 metafile = true
 
 [[files]]
