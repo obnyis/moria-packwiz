@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "Moria/carpet.conf"
-hash = "0f7d1eb0a3b504bb75c4c82c90c4a1ca19ae5e52f5a8a65a7ad6185b1c41003c"
+hash = "758fdfd7469ae0f1aebe5a699e9d3f3cb888ad7d1da0e7d3c9306fea156daa85"
 
 [[files]]
 file = "config/bclib/client.json"
@@ -818,6 +818,11 @@ metafile = true
 [[files]]
 file = "mods/roughly-enough-professions-rep.pw.toml"
 hash = "5feb7daf2422283d3bdadb723146bf4efabde8c3803546b569d2ab6d506e9905"
+metafile = true
+
+[[files]]
+file = "mods/rug.pw.toml"
+hash = "2468a94d454690667f3de05a0c34d56ee8bbe3a1272fb455d218ea7f54ccc348"
 metafile = true
 
 [[files]]
