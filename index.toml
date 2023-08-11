@@ -5,6 +5,10 @@ file = "Moria/carpet.conf"
 hash = "758fdfd7469ae0f1aebe5a699e9d3f3cb888ad7d1da0e7d3c9306fea156daa85"
 
 [[files]]
+file = "config/ae2/common.json"
+hash = "a622dc7b609ba61ec77c6e7da4417022fc0e65c9b7bbd17a93ad8e86bea74662"
+
+[[files]]
 file = "config/bclib/client.json"
 hash = "8740df9bb51638a9e62fe93b11e99fb85288bb94346a7a4ef67742f4f34d9d0b"
 
