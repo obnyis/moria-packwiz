@@ -10,7 +10,11 @@ hash = "a622dc7b609ba61ec77c6e7da4417022fc0e65c9b7bbd17a93ad8e86bea74662"
 
 [[files]]
 file = "config/bclib/client.json"
-hash = "8740df9bb51638a9e62fe93b11e99fb85288bb94346a7a4ef67742f4f34d9d0b"
+hash = "9a8a47470663746ad9fe7d06093fb4e2d01e158c1ea3d081bdc3de3d705b73f5"
+
+[[files]]
+file = "config/bclib/server.json"
+hash = "6b25d6ffb43ee1f8b7ec091431380ff2289f3ce794bdb7a5058d5e5cb34aa58f"
 
 [[files]]
 file = "config/betterf3.json"
