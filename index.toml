@@ -322,6 +322,11 @@ hash = "bb1ce36de0df1b27894c1270d6d8bdb6f34b77eb26ed6cac19ef4bd80ae41cd8"
 metafile = true
 
 [[files]]
+file = "mods/big-items-duh.pw.toml"
+hash = "80fa2620b55528fc39f3cb6105da869e844a43597e2112737d502fd904e38e3f"
+metafile = true
+
+[[files]]
 file = "mods/bits-and-chisels.pw.toml"
 hash = "696dedc5f75137914468457f007ecd6d7621a174a22528af2afc6f73b5b867c0"
 metafile = true
