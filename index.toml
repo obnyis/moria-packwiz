@@ -349,11 +349,6 @@ hash = "28fb59dd8303b624eae37b491010478ee8f850edc3116111ebf715a3a3673e3b"
 metafile = true
 
 [[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "ec814ceecff372922e141f57bfaf2206dc54b0d977a265cd5cde4aefd4cc9c00"
-metafile = true
-
-[[files]]
 file = "mods/carpet-extra.pw.toml"
 hash = "5aa266498f131bf7b9d764d608b6416f36555c228110c0d5126bcd7c8bec9f9c"
 metafile = true
