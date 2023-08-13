@@ -1,13 +1,13 @@
 name = "Kambrik"
-filename = "Kambrik-6.0.1+1.20.1-fabric.jar"
+filename = "Kambrik-6.1.1+1.20.1-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/zfbCkvdZ/versions/kFW8nJA9/Kambrik-6.0.1%2B1.20.1-fabric.jar"
+url = "https://cdn.modrinth.com/data/zfbCkvdZ/versions/SqVitkHr/Kambrik-6.1.1%2B1.20.1-fabric.jar"
 hash-format = "sha1"
-hash = "9adc61d63219b3debc8d2d0f783d93cbac4fd676"
+hash = "a156ba87fe3cd7fdf6a0a8c76edac4f70fe91157"
 
 [update]
 [update.modrinth]
 mod-id = "zfbCkvdZ"
-version = "kFW8nJA9"
+version = "SqVitkHr"
