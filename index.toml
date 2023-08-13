@@ -65,6 +65,10 @@ file = "config/minihud/moria.stealthwing.com_dim_minecraft_overworld.json"
 hash = "1e4447b2e7fcd10210da714a6f57d83fe84aad90fa965fdb8a74cd58cdc69b36"
 
 [[files]]
+file = "config/stackables.toml"
+hash = "f16f785d2a215c811440b004bd77f17b64f80d0af8fcf5486fd2721248af7836"
+
+[[files]]
 file = "config/starterkit/starterkit.txt"
 hash = "edb37fc7db35b2a6f068aee3b58a36fe028d7439ff7b2c459aabb7b02975a278"
 
@@ -75,6 +79,10 @@ hash = "731da81ca9d57552008809b84e1c0f6ec8927ceb6792c795d7f13dc41122b45d"
 [[files]]
 file = "config/universal-graves/config.json"
 hash = "d7c6cb539e8d859d28e866505cc5f29d67c13174c88d9e8d9374aea194963899"
+
+[[files]]
+file = "config/wands.json"
+hash = "034206dc37063b6e232d9ec32b9507eae1c440e52105471450f91a07ac755950"
 
 [[files]]
 file = "config/waystones-common.toml"
@@ -341,6 +349,11 @@ metafile = true
 [[files]]
 file = "mods/botany-trees.pw.toml"
 hash = "e54cf8c49f15d329167155b093850410dfa24a69ddf160dcf9c5abbf3598d23e"
+metafile = true
+
+[[files]]
+file = "mods/building-wands.pw.toml"
+hash = "4d0a4435fb23d2ae38fed293c084f42ae8a120e2a0974a261a2044b9304dc7f0"
 metafile = true
 
 [[files]]
@@ -856,6 +869,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "c78402a36d0315a643f0fc5be87b7ccd12f88a8d30770a8b9c15b9743f21adaa"
+metafile = true
+
+[[files]]
+file = "mods/stackables.pw.toml"
+hash = "976cea9dda0af97d5860653e22104c5a84f9cd2579223c029939d74ac45a5813"
 metafile = true
 
 [[files]]
