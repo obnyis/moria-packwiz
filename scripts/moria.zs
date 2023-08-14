@@ -79,7 +79,6 @@ craftingTable.addShapeless("moria_unpack_qwart", <item:minecraft:quartz>*4, [<it
 craftingTable.addShapeless("moria_unpack_ice1", <item:minecraft:ice>*9, [<item:minecraft:packed_ice>]);
 craftingTable.addShapeless("moria_unpack_ice2", <item:minecraft:packed_ice>*9, [<item:minecraft:blue_ice>]);
 
-
 # smallPooka's ocean empire flag
 craftingTable.addShapeless("moria_smallpooka_empire",
     <item:minecraft:white_banner>.withTag(
@@ -101,6 +100,27 @@ craftingTable.addShapeless("moria_smallpooka_empire",
         <item:minecraft:prismarine>
     ]);
 
+# crimsonebony's orb empire flag
+craftingTable.addShapeless("moria_crimsonebony_empire",
+    <item:minecraft:magenta_banner>.withTag(
+        {
+            BlockEntityTag: {
+                Patterns: [
+                    {Pattern: "cre", Color: 3},
+                    {Pattern: "glb", Color: 10},
+                    {Pattern: "cbo", Color: 15},
+                    {Pattern: "bo", Color: 15},
+                    {Pattern: "ts", Color: 15},
+                    {Pattern: "bs", Color: 15}
+                ]
+            }
+        }
+    ).withDisplayName("CrimsonEbony Empire"),
+    [
+        <tag:items:minecraft:banners>,
+        <item:minecraft:ender_pearl>
+    ]);
+
 # logs to sticks
 craftingTable.addShaped("moria_logs_to_sticks", <item:minecraft:stick> * 16,
     [
@@ -119,8 +139,8 @@ craftingTable.addShaped("moria_logs_to_chests", <item:minecraft:chest> * 4,
 # craft small dripleaf - haliade
 craftingTable.addShapeless("moria_haliade_small_dripleaf", <item:minecraft:small_dripleaf>, [<item:minecraft:big_dripleaf>]);
 
-
-
+# craft gilded blackstone
+craftingTable.addShapeless("moria_crimson_gilded_blackstone", <item:minecraft:gilded_blackstone>, [<item:minecraft:blackstone>, <item:minecraft:gold_ingot>]);
 
 # OnceOff to set up a custom SOIL for BotonyPots mod. 1.20.1
 # Obviously, these 'categories' will tie a 'soil' to a seed recipie where the actual output is listed.
@@ -137,19 +157,16 @@ craftingTable.addShapeless("moria_haliade_small_dripleaf", <item:minecraft:small
         "lightLevel": 15
     });
 
-
 # function to set up a BLOCK as a seed for BotonyPots mod. x16 per minute (1200) 1.20.1
 
 function addBotanyPotsBlockgen(itemIn as string, minOut as int = 1, maxOut as int = 1) as void {
     # crafttweaker needs a unique recipe ID, so make one up but fix any colon characters.
     var recipeID = "moria_magic_potblockgen_" + itemIn.replace(":","_");
 
-
     # addJsonRecipie uses the same format as real recipies found in github resources/data/[mod]/recipies
     # ie. the stuff between the curly brackets.
     #  eg for BotanyPots https://github.com/Darkhax-Minecraft/BotanyPots/blob/1.19.4/Common/src/main/resources/data/botanypots/recipes/minecraft/crop/allium.json
     # CraftTweaker wiki uses scripted objects which has benifits, but just I use string inputs here to visually match the original recipie closer, and much easier to understand.
-
 
     <recipetype:botanypots:crop>.addJsonRecipe(recipeID, { "type": "botanypots:crop",
         "seed":       { "item": itemIn  },
