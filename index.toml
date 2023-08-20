@@ -247,6 +247,11 @@ hash = "c7623931404275ab39775710d7c6acb0f97a3ea5cabee43f5deeeab85ca1993d"
 metafile = true
 
 [[files]]
+file = "mods/amecs.pw.toml"
+hash = "16ce27183f78f23c8606787ab2bbbaf01d290b569a4c6d5a6f91b30802ebabd9"
+metafile = true
+
+[[files]]
 file = "mods/anvil-restoration.pw.toml"
 hash = "bb64653f393deecd9045e200a13764c4259acaecc5741cab6de5ea63dc5231f6"
 metafile = true
@@ -975,6 +980,10 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "2008716fdfef554660ce44659a3a42acd673a5391af2d4bd94f40654f1f60a1d"
 metafile = true
+
+[[files]]
+file = "options.amecsapi.txt"
+hash = "6ab0d8c4b26f8485addad0449fa717b35b3d607bf08116535588b95a3bdfc0c1"
 
 [[files]]
 file = "resourcepacks/moria_backgrounds.zip"
