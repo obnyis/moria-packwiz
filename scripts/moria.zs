@@ -174,6 +174,13 @@ addBotanyPotsBlockgen("minecraft:end_stone",  16, 16);
 addBotanyPotsBlockgen("minecraft:clay");
 addBotanyPotsBlockgen("minecraft:quartz_block");
 
+addBotanyPotsBlockgen("betternether:ceiling_mushrooms");
+addBotanyPotsBlockgen("betternether:jungle_grass");
+addBotanyPotsBlockgen("betternether:mushroom_grass");
+addBotanyPotsBlockgen("betternether:nether_mycelium");
+addBotanyPotsBlockgen("betternether:netherrack_moss");
+addBotanyPotsBlockgen("betternether:sepia_mushroom_grass");
+addBotanyPotsBlockgen("betternether:swampland_grass");
 
 craftingTable.addShapeless("moria_sharestone_loot",
     <item:waystones:yellow_sharestone>.withDisplayName("Lootable Locations!"),
@@ -186,3 +193,11 @@ craftingTable.addShapeless("moria_sharestone_farm",
 craftingTable.addShapeless("moria_sharestone_end",
     <item:waystones:light_gray_sharestone>.withDisplayName("Locations of Interest!"),
     [<item:waystones:waystone>, <item:minecraft:light_gray_dye>]);
+
+craftingTable.addShapeless("moria_betternether_ceiling_mushrooms", <item:betternether:ceiling_mushrooms>,       [<item:minecraft:netherrack>, <item:betternether:wall_mushroom_red>]);
+craftingTable.addShapeless("moria_betternether_jungle_grass", <item:betternether:jungle_grass>,                 [<item:minecraft:netherrack>, <item:betternether:jungle_plant>]);
+craftingTable.addShapeless("moria_betternether_mushroom_grass", <item:betternether:mushroom_grass>,             [<item:minecraft:netherrack>, <item:betternether:bone_grass>]);
+craftingTable.addShapeless("moria_betternether_nether_mycelium", <item:betternether:nether_mycelium>,           [<item:minecraft:netherrack>, <item:betternether:giant_mold_sapling>]);
+craftingTable.addShapeless("moria_betternether_netherrack_moss", <item:betternether:netherrack_moss>,           [<item:minecraft:netherrack>, <item:betternether:black_vine>]);
+craftingTable.addShapeless("moria_betternether_sepia_mushroom_grass", <item:betternether:sepia_mushroom_grass>, [<item:minecraft:netherrack>, <item:betternether:sepia_bone_grass>]);
+craftingTable.addShapeless("moria_betternether_swampland_grass", <item:betternether:swampland_grass>,           [<item:minecraft:netherrack>, <item:betternether:swamp_grass>]);
