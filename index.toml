@@ -607,6 +607,16 @@ hash = "92b786d2177532802366a2a8ef032e8771a0a7aacc3b32e2c62862a2d569bc90"
 metafile = true
 
 [[files]]
+file = "mods/jade-addons-fabric.pw.toml"
+hash = "306d8755c542e99a0b07b76d886030f595e3e55425631f6a7c4c5d7c26888c58"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "b6643e1105e843db90051b0996a8ae0b54a65914c526421a5853857ebaf070d3"
+metafile = true
+
+[[files]]
 file = "mods/jamlib.pw.toml"
 hash = "4a37864ebe44ddf66f7a127683adc76515d3dc97f8d8dba6fe362c43a1f39464"
 metafile = true
@@ -964,11 +974,6 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "c9a63c67893610e550c893c89ac485b4b0778ad1783f0e8705a63b458f57e96f"
-metafile = true
-
-[[files]]
-file = "mods/wthit.pw.toml"
-hash = "7d6591816bbf7ef2861ce4f1ac2633cbea7dbf3738f9ede1cd604b8048131487"
 metafile = true
 
 [[files]]
