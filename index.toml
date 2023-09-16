@@ -233,7 +233,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "7d3e3759802a8804a91078723cee2db7bd817f928af5270db0afc7e34009c6b3"
+hash = "e362dcd3d782835ef0473ba34e12f17a53d1d296e5f258596420964662fbf7c9"
 metafile = true
 
 [[files]]
@@ -283,7 +283,7 @@ metafile = true
 
 [[files]]
 file = "mods/badpackets.pw.toml"
-hash = "cbf5544ba86d4d10262fff9c53af6c9ef05bb92d329bb02f891a5aaf3ca94631"
+hash = "a1bea09f928280dd62cea871438231389ecbed00f4053bb5d1d4a3ad91545fc3"
 metafile = true
 
 [[files]]
@@ -353,7 +353,7 @@ metafile = true
 
 [[files]]
 file = "mods/botany-pots.pw.toml"
-hash = "88788a1abb9f54673f7f926344cd387d01f566283e8dcd1e100db105ef59de76"
+hash = "d532f358f392c33b20dfa3de36cefc1cdab99b538ca0a24594cf855d20ca33ab"
 metafile = true
 
 [[files]]
@@ -438,12 +438,12 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "c1d37daaedb13ad3e193c80529338a56be790c82f3737425ecf9d430b741cd8b"
+hash = "35d11ecb99691b69528c2f0ca2da2ea409a53a60db7be187a62c774c0f8a52eb"
 metafile = true
 
 [[files]]
 file = "mods/crafttweaker.pw.toml"
-hash = "7adcdd6e3d43c7409c2542d7c83b578621cb394184cd8c2c46466ee4c83706bc"
+hash = "84c741d001faffe1936cf3a21c2f858ed51a8ac96bf7e3713dc7e1063f65a54d"
 metafile = true
 
 [[files]]
@@ -493,7 +493,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "c8c6a3893859d2f0e04ebf400c8ce8b47de21cfe6097996b5dde1561e92f3c80"
+hash = "ad214677d7d7b71d0d962d4b3f668d34ba2faa19b30ad007afd89a205256505c"
 metafile = true
 
 [[files]]
@@ -573,7 +573,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "b955450fc7798bd9490f24977a828a06aeee726198aacec1eef16703ab88fbc5"
+hash = "0115f86693696e977523c0137f7951a28577290d5e0e176b257e437e14f3fd5f"
 metafile = true
 
 [[files]]
@@ -693,7 +693,7 @@ metafile = true
 
 [[files]]
 file = "mods/luckperms.pw.toml"
-hash = "879f42a9c6ede67873e773764319cc52105db1c5bfdd540878c9a28eaa0c5561"
+hash = "ebc7a77402069acd00a1a84eaeefc06c586035c31d7abbc941b9cf204afec2a9"
 metafile = true
 
 [[files]]
@@ -743,7 +743,7 @@ metafile = true
 
 [[files]]
 file = "mods/mod-loading-screen.pw.toml"
-hash = "c7857bed7df0c9bf4fa52891a2f6a6294ac743307f56f1d8e6005de38ab21b96"
+hash = "cefa06434aef1275fb8db61694f8f082898f5b66fd1bbc4ac59def333a75704d"
 metafile = true
 
 [[files]]
@@ -758,7 +758,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "e2a93bfe1d1e55657afd64a361b1d05929c8984332f1c39afd957eb7f88e9a62"
+hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
 metafile = true
 
 [[files]]
@@ -833,12 +833,12 @@ metafile = true
 
 [[files]]
 file = "mods/rechiseled.pw.toml"
-hash = "67499e7799c4fc1401af3641a0bf57509b24cce9ee75ad9471efef36a6b3f822"
+hash = "2cf2f730052b620ebe4da130527d5f0df09629715d241e1a948347a2d0eff03b"
 metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "c6644648e13d92b7773a663969be5f9b2183b2493df36d6f48a1c3bd492ff96d"
+hash = "f96c80480b1aa5026a9f69b1200cb791b90e37d92d8ad4213b176006755eb5ae"
 metafile = true
 
 [[files]]
@@ -888,7 +888,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "c78402a36d0315a643f0fc5be87b7ccd12f88a8d30770a8b9c15b9743f21adaa"
+hash = "5838246844381e15239e1a431fc154a180191887e548e594ede9bfea2800913c"
 metafile = true
 
 [[files]]
@@ -908,7 +908,7 @@ metafile = true
 
 [[files]]
 file = "mods/styled-chat.pw.toml"
-hash = "4f101cf87d3e2228c8c62e3b91ecdb1825809841041e709f9d1480d4e25fad3a"
+hash = "4df7a83e4162bb71e20ef2bea25042daadf04ac5daab143b0035af0405160b65"
 metafile = true
 
 [[files]]
@@ -963,7 +963,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "4eab0db38cceb1a4e00e6ebf3a46bcb47189a9b4ae3167c54af3e604b657207b"
+hash = "c9a63c67893610e550c893c89ac485b4b0778ad1783f0e8705a63b458f57e96f"
 metafile = true
 
 [[files]]
@@ -991,4 +991,4 @@ hash = "0d8764c2fe1c17bca45ff6cd5b81a70b9896046160b8b704508a32f7731e190b"
 
 [[files]]
 file = "scripts/moria.zs"
-hash = "71b6cb272f58b484cd24537a98f71985621de4b50c27210b4970e95051f79c06"
+hash = "6b6ee7612057ab83bd8e1e1b15f536219dd9b46ede4a81b7692cf873aedbe795"
