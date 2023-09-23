@@ -11,7 +11,3 @@ hash = "1bc15df703b8d2d2b68c2374b5cfea258e92a35b"
 [update.modrinth]
 mod-id = "nvQzSEkH"
 version = "SlsObyHn"
-
-[option]
-optional = true
-description = "Information HUD"
