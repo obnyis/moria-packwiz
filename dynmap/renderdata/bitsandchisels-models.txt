@@ -1,3 +1,0 @@
-modname:bitsandchisels
-
-modellist:id=%bits_block

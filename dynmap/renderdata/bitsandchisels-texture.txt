@@ -1,3 +1,0 @@
-modname:bitsandchisels
-
-block:id=%bits_block,transparency=TRANSPARENT,stdrot=true
