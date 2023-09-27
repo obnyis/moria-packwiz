@@ -1,0 +1,8 @@
+name = "DynmapBlockScan"
+filename = "DynmapBlockScan-3.6-fabric-1.20.jar"
+side = "server"
+
+[download]
+url = "http://www.dynmap.us/builds/DynmapBlockScan/DynmapBlockScan-3.6-fabric-1.20.jar"
+hash-format = "sha256"
+hash = "1058152b528872e20a92cc4a65dc5b7c4df3f34efa9b304b02b14c648ef25ba0"
