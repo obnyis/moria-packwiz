@@ -409,6 +409,11 @@ hash = "76a2166b6bc2678069a93ced5969d56ee8189d6a30a86f57da75bd89af0e7f4c"
 metafile = true
 
 [[files]]
+file = "mods/farmers-respite-fabric.pw.toml"
+hash = "3b09bb825c6293c1c1fb2addd2c88e03af6cb4f0cc72040cd8696a51a3ef8f5f"
+metafile = true
+
+[[files]]
 file = "mods/fastanim.pw.toml"
 hash = "09282ae8265516057d5500cb489f0a8d3c563064d85582718a1efd6f3afb43be"
 metafile = true
