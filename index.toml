@@ -869,7 +869,7 @@ hash = "6ab0d8c4b26f8485addad0449fa717b35b3d607bf08116535588b95a3bdfc0c1"
 
 [[files]]
 file = "resourcepacks/moria_backgrounds.zip"
-hash = "0d8764c2fe1c17bca45ff6cd5b81a70b9896046160b8b704508a32f7731e190b"
+hash = "c886d58a9d0ab0d8bcb950743a529180df3c823ad81da0b5331e572c4f7b3cb9"
 
 [[files]]
 file = "scripts/moria.zs"
