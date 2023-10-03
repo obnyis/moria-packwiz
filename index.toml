@@ -355,7 +355,7 @@ metafile = true
 
 [[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
-hash = "9921862e327d7d398f9cb9fc92da56bf6a24186d8bf9071f808f44c0893569e9"
+hash = "38fa2e2a08684caf0dbc97d22e521f132ea5a9d2a592f9c550fe05404984bfd6"
 metafile = true
 
 [[files]]
@@ -745,7 +745,7 @@ metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "fcb1434a5c0b42eea5b27d0eb5a2160cf438d941e4f7f9d88a969cf4d819123d"
+hash = "1fe2b3aa3fb54a4c449935c7cd74c8a3af1a342e6974bf6154916908ad861d1f"
 metafile = true
 
 [[files]]
