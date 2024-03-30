@@ -1,13 +1,13 @@
 name = "Rug"
-filename = "rug-1.20.1-1.4.4.jar"
+filename = "rug-mc1.20.1-v1.5.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/VishnYFF/versions/z8pzR3F7/rug-1.20.1-1.4.4.jar"
+url = "https://cdn.modrinth.com/data/VishnYFF/versions/xBhUTO9W/rug-mc1.20.1-v1.5.3.jar"
 hash-format = "sha1"
-hash = "25b61fa32f921ad726dd8a10cfb701f1d0d46b6c"
+hash = "8189cac84375879b59f25dc40e4f78dc35dca733"
 
 [update]
 [update.modrinth]
 mod-id = "VishnYFF"
-version = "z8pzR3F7"
+version = "xBhUTO9W"

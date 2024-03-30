@@ -1,13 +1,13 @@
 name = "Silence Mobs"
-filename = "silencemobs-1.20.1-3.0.jar"
+filename = "silencemobs-1.20.1-3.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/rpmGvDKs/versions/B53itOp6/silencemobs-1.20.1-3.0.jar"
+url = "https://cdn.modrinth.com/data/rpmGvDKs/versions/hv5rwq8B/silencemobs-1.20.1-3.3.jar"
 hash-format = "sha1"
-hash = "8e2f6ab1cab24db6e55d82860df76d3d3811abd2"
+hash = "e206d9b1ae51aa575d3788b77a279570fbbb6f43"
 
 [update]
 [update.modrinth]
 mod-id = "rpmGvDKs"
-version = "B53itOp6"
+version = "hv5rwq8B"

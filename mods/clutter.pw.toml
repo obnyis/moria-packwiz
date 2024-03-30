@@ -1,13 +1,13 @@
 name = "Clutter"
-filename = "clutter-1.20-0.4.3.jar"
+filename = "clutter-1.20-0.5.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/KZAmykow/versions/O3dkbuDi/clutter-1.20-0.4.3.jar"
+url = "https://cdn.modrinth.com/data/KZAmykow/versions/MruMiwFW/clutter-1.20-0.5.7.jar"
 hash-format = "sha1"
-hash = "3a296fbbf2842173dfe7be67a46f05f227ca26c3"
+hash = "fb0fb820ebc0289e6a653cc486f2e2304223f295"
 
 [update]
 [update.modrinth]
 mod-id = "KZAmykow"
-version = "O3dkbuDi"
+version = "MruMiwFW"
