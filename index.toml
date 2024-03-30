@@ -699,6 +699,11 @@ hash = "f5f1dc5170acb09c40da32a10fed28b32043f7d2394092683b67e752096c78bc"
 metafile = true
 
 [[files]]
+file = "mods/polymer.pw.toml"
+hash = "1db896aa5f0189460dd7a7826052aa275db5897b16e87b1ff470dbcb3c825cf6"
+metafile = true
+
+[[files]]
 file = "mods/powah.pw.toml"
 hash = "b9e9e54bebabc64adb07bdd0911934a1f956039ad80a1cbe0f95a1108a9321ea"
 metafile = true
@@ -831,6 +836,11 @@ metafile = true
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "f4ee188c011337963dc95d3e3c6c76cbd6fccf90c533b09639b490a1129eb522"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
 metafile = true
 
 [[files]]
