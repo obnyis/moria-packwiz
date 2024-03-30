@@ -1,13 +1,13 @@
 name = "Just Enough Resources (JER)"
-filename = "JustEnoughResources-Fabric-1.20.1-1.4.0.238.jar"
+filename = "JustEnoughResources-Fabric-1.20.1-1.4.0.247.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/uEfK2CXF/versions/ecxqA4B1/JustEnoughResources-Fabric-1.20.1-1.4.0.238.jar"
+url = "https://cdn.modrinth.com/data/uEfK2CXF/versions/9HWvOVzO/JustEnoughResources-Fabric-1.20.1-1.4.0.247.jar"
 hash-format = "sha1"
-hash = "999272be6c42e039596fe0dedfabbaba0e118898"
+hash = "505b27e4e902645d8104133a2a5d9ea409b645b1"
 
 [update]
 [update.modrinth]
 mod-id = "uEfK2CXF"
-version = "ecxqA4B1"
+version = "9HWvOVzO"

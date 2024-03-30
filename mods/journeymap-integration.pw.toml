@@ -1,16 +1,16 @@
 name = "JourneyMap Integration"
-filename = "jmi-fabric-1.20.1-0.14-45.jar"
+filename = "jmi-fabric-1.20.1-0.14-47.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/M1ZKbfkJ/versions/K25QJ6AR/jmi-fabric-1.20.1-0.14-45.jar"
+url = "https://cdn.modrinth.com/data/M1ZKbfkJ/versions/YdY0BGLR/jmi-fabric-1.20.1-0.14-47.jar"
 hash-format = "sha1"
-hash = "e63678ca624ebfe301cb780028c3f66cd21ffa1c"
+hash = "b4e8254f2a57e44ca1605d59445d5461652cb9b6"
 
 [update]
 [update.modrinth]
 mod-id = "M1ZKbfkJ"
-version = "K25QJ6AR"
+version = "YdY0BGLR"
 
 [option]
 optional = true
