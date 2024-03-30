@@ -204,6 +204,11 @@ hash = "80fa2620b55528fc39f3cb6105da869e844a43597e2112737d502fd904e38e3f"
 metafile = true
 
 [[files]]
+file = "mods/bits-and-chisels.pw.toml"
+hash = "696dedc5f75137914468457f007ecd6d7621a174a22528af2afc6f73b5b867c0"
+metafile = true
+
+[[files]]
 file = "mods/block-runner.pw.toml"
 hash = "60e30c17dfa1a0970f34b612718322a287b12fde1047a24678ff28e09feb251f"
 metafile = true
@@ -786,6 +791,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "5838246844381e15239e1a431fc154a180191887e548e594ede9bfea2800913c"
+metafile = true
+
+[[files]]
+file = "mods/stacc-api.pw.toml"
+hash = "f43bfe5b19aa551bc66c51f84c72e5cc1edd60182e428ea5fa17bdb6ec82ebdb"
 metafile = true
 
 [[files]]
