@@ -892,5 +892,9 @@ file = "resourcepacks/moria_backgrounds.zip"
 hash = "c886d58a9d0ab0d8bcb950743a529180df3c823ad81da0b5331e572c4f7b3cb9"
 
 [[files]]
+file = "scripts/betternether.zs"
+hash = "d9dcc18b03a55437b49266e819c6d5b67e2f6ccf517fdc0dc72a2fff82939b36"
+
+[[files]]
 file = "scripts/moria.zs"
 hash = "6b6ee7612057ab83bd8e1e1b15f536219dd9b46ede4a81b7692cf873aedbe795"
