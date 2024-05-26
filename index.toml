@@ -314,6 +314,11 @@ hash = "c57b366e07d33fba61c135f1b682822464f01ef54f5d623753ed42885812dd02"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "90291784f95c409c8b856d8a9e5389a4727be8f6a01dd4fd284705e0013b44ff"
+metafile = true
+
+[[files]]
 file = "mods/craftpresence.pw.toml"
 hash = "2f7b4303cff064f30e17cfce29235ac4231bcab38d11627c73e59fbde663c6e1"
 metafile = true
@@ -324,8 +329,23 @@ hash = "15c7b55ba4917984c3a4c1ec758b33f712bdf1e1121b60b2fb0850a5c85b4c22"
 metafile = true
 
 [[files]]
+file = "mods/create-enchantment-industry-fabric.pw.toml"
+hash = "da0b1e65c3bb9f9eabfbaf4242b3adf22267752adb3824fe62b24077cf458340"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "26394151533372bce2229f31c8df7f65e2deb751cc823f317cd30682381acc8f"
+metafile = true
+
+[[files]]
+file = "mods/create-jetpack.pw.toml"
+hash = "93f8459ef551d239aba91b04529a2fa9bc8fe3630000e1478928e7900b4ae22c"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "b5a83b1ca240286be1aa97b3c3dd96c2e481dc0332dc2541f900cded4a719a82"
 metafile = true
 
 [[files]]
