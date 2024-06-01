@@ -450,7 +450,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-respite-fabric.pw.toml"
-hash = "9c227262ccd3fd4bbc6337fe29e5146ab14c76e6fc64d09454f836d34de9a53e"
+hash = "f60ec7cd78bebe08b64d2bbc88be31969f7986bed250429a3dbbe21382d09df0"
 metafile = true
 
 [[files]]

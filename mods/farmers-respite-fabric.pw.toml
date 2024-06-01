@@ -1,13 +1,18 @@
 name = "Farmer's Respite (Fabric)"
-filename = "Farmersrespite-Fabric-3.0.2.jar"
+filename = "Farmersrespite-Fabric-3.0.8.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3c182964427f4c5bda8461d0cae63918f9ba77c8"
-mode = "metadata:curseforge"
+url = "https://github.com/Adlumia7/Farmersrespite-Fabric/releases/download/v3.0.8/Farmersrespite-Fabric-3.0.8.jar"
+hash-format = "sha256"
+hash = "2aa70b33fad98fcbb55be95e46e3fa68c3e71605920826a22ff929249a5c4714"
 
-[update]
-[update.curseforge]
-file-id = 5252387
-project-id = 811003
+# [download]
+# hash-format = "sha1"
+# hash = "3c182964427f4c5bda8461d0cae63918f9ba77c8"
+# mode = "metadata:curseforge"
+#
+# [update]
+# [update.curseforge]
+# file-id = 5252387
+# project-id = 811003
